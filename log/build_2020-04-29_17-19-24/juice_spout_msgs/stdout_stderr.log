@@ -1,0 +1,173 @@
+[0.189s] [ 10%] Built target juice_spout_msgs__rosidl_generator_c
+[0.203s] [ 12%] Built target juice_spout_msgs__cpp
+[0.311s] [ 23%] Built target juice_spout_msgs__rosidl_typesupport_cpp
+[0.322s] [ 34%] Built target juice_spout_msgs__rosidl_typesupport_introspection_c
+[0.331s] [ 45%] Built target juice_spout_msgs__rosidl_typesupport_c
+[0.342s] [ 56%] Built target juice_spout_msgs__rosidl_typesupport_introspection_cpp
+[0.355s] [ 67%] Built target juice_spout_msgs__rosidl_typesupport_fastrtps_cpp
+[0.418s] [ 78%] Built target juice_spout_msgs__rosidl_typesupport_fastrtps_c
+[0.452s] [ 78%] Built target juice_spout_msgs
+[0.491s] [ 80%] Built target juice_spout_msgs__py
+[0.548s] [ 89%] Built target juice_spout_msgs__python
+[0.604s] [ 92%] Built target juice_spout_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.613s] [ 96%] Built target juice_spout_msgs__rosidl_typesupport_c__pyext
+[0.619s] [100%] Built target juice_spout_msgs__rosidl_typesupport_introspection_c__pyext
+[1.213s] [  1%] Built target juice_spout_msgs__cpp
+[1.221s] [ 12%] Built target juice_spout_msgs__rosidl_generator_c
+[1.274s] [ 23%] Built target juice_spout_msgs__rosidl_typesupport_cpp
+[1.276s] [ 34%] Built target juice_spout_msgs__rosidl_typesupport_introspection_cpp
+[1.283s] [ 45%] Built target juice_spout_msgs__rosidl_typesupport_c
+[1.284s] [ 56%] Built target juice_spout_msgs__rosidl_typesupport_introspection_c
+[1.286s] [ 67%] Built target juice_spout_msgs__rosidl_typesupport_fastrtps_cpp
+[1.323s] [ 78%] Built target juice_spout_msgs__rosidl_typesupport_fastrtps_c
+[1.354s] [ 78%] Built target juice_spout_msgs
+[1.383s] [ 80%] Built target juice_spout_msgs__py
+[1.428s] [ 89%] Built target juice_spout_msgs__python
+[1.466s] [ 92%] Built target juice_spout_msgs__rosidl_typesupport_introspection_c__pyext
+[1.474s] [ 96%] Built target juice_spout_msgs__rosidl_typesupport_c__pyext
+[1.474s] [100%] Built target juice_spout_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.516s] [36mInstall the project...[0m
+[1.523s] -- Install configuration: ""
+[1.524s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/ament_index/resource_index/rosidl_interfaces/juice_spout_msgs
+[1.524s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs
+[1.524s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action
+[1.525s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action/run_action_recipe.hpp
+[1.525s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action/run_action_recipe__struct.hpp
+[1.525s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action/run_action_recipe__traits.hpp
+[1.525s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg
+[1.525s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/spout_state__traits.hpp
+[1.525s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/spout_state.hpp
+[1.525s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/spout_state__struct.hpp
+[1.526s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv
+[1.526s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/run_recipe__struct.hpp
+[1.526s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/set_fill.hpp
+[1.526s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/set_fill__traits.hpp
+[1.526s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/run_recipe.hpp
+[1.526s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/set_fill__struct.hpp
+[1.526s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/run_recipe__traits.hpp
+[1.526s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs
+[1.526s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action
+[1.527s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action/run_action_recipe.h
+[1.527s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action/run_action_recipe__type_support.h
+[1.527s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action/run_action_recipe__functions.c
+[1.527s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action/run_action_recipe__functions.h
+[1.527s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action/run_action_recipe__struct.h
+[1.528s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg
+[1.528s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/spout_state__struct.h
+[1.528s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/spout_state__type_support.h
+[1.528s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/spout_state__functions.c
+[1.528s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/rosidl_generator_c__visibility_control.h
+[1.528s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/spout_state__functions.h
+[1.529s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/spout_state.h
+[1.529s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv
+[1.529s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/run_recipe.h
+[1.529s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/set_fill__type_support.h
+[1.529s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/run_recipe__functions.c
+[1.530s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/set_fill__functions.c
+[1.530s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/run_recipe__struct.h
+[1.530s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/set_fill.h
+[1.530s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/set_fill__struct.h
+[1.530s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/run_recipe__type_support.h
+[1.531s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/set_fill__functions.h
+[1.531s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/run_recipe__functions.h
+[1.531s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/environment/library_path.sh
+[1.531s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/libjuice_spout_msgs__rosidl_generator_c.so
+[1.531s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/libjuice_spout_msgs__rosidl_typesupport_c.so
+[1.531s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/libjuice_spout_msgs__rosidl_typesupport_cpp.so
+[1.532s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs
+[1.532s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action
+[1.532s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action/run_action_recipe__rosidl_typesupport_introspection_c.h
+[1.532s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action/run_action_recipe__type_support.c
+[1.532s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg
+[1.532s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/spout_state__type_support.c
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/spout_state__rosidl_typesupport_introspection_c.h
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/run_recipe__rosidl_typesupport_introspection_c.h
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/set_fill__type_support.c
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/set_fill__rosidl_typesupport_introspection_c.h
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/run_recipe__type_support.c
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/libjuice_spout_msgs__rosidl_typesupport_introspection_c.so
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action/run_action_recipe__rosidl_typesupport_introspection_cpp.hpp
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action/run_action_recipe__type_support.cpp
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/spout_state__rosidl_typesupport_introspection_cpp.hpp
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/spout_state__type_support.cpp
+[1.536s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv
+[1.536s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/run_recipe__type_support.cpp
+[1.536s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/set_fill__rosidl_typesupport_introspection_cpp.hpp
+[1.536s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/run_recipe__rosidl_typesupport_introspection_cpp.hpp
+[1.536s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/set_fill__type_support.cpp
+[1.536s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/libjuice_spout_msgs__rosidl_typesupport_introspection_cpp.so
+[1.537s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs
+[1.537s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action
+[1.537s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action/run_action_recipe__rosidl_typesupport_fastrtps_c.h
+[1.537s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg
+[1.537s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/spout_state__rosidl_typesupport_fastrtps_c.h
+[1.537s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.538s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv
+[1.538s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/run_recipe__rosidl_typesupport_fastrtps_c.h
+[1.538s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/set_fill__rosidl_typesupport_fastrtps_c.h
+[1.538s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/libjuice_spout_msgs__rosidl_typesupport_fastrtps_c.so
+[1.539s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs
+[1.539s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action
+[1.539s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action/run_action_recipe__rosidl_typesupport_fastrtps_cpp.hpp
+[1.539s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/action/dds_fastrtps
+[1.540s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg
+[1.542s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/dds_fastrtps
+[1.543s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.543s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/msg/spout_state__rosidl_typesupport_fastrtps_cpp.hpp
+[1.543s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv
+[1.543s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/run_recipe__rosidl_typesupport_fastrtps_cpp.hpp
+[1.544s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/set_fill__rosidl_typesupport_fastrtps_cpp.hpp
+[1.544s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/include/juice_spout_msgs/srv/dds_fastrtps
+[1.544s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/libjuice_spout_msgs__rosidl_typesupport_fastrtps_cpp.so
+[1.544s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/environment/pythonpath.sh
+[1.544s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/__init__.py
+[1.624s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/srv
+[1.624s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/srv/_run_recipe.py
+[1.624s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/srv/__init__.py
+[1.624s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/srv/_set_fill.py
+[1.624s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/srv/_run_recipe_s.c
+[1.624s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/srv/_set_fill_s.c
+[1.624s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/action
+[1.625s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/action/_run_action_recipe_s.c
+[1.625s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/action/__init__.py
+[1.625s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/action/_run_action_recipe.py
+[1.626s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/msg
+[1.626s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/msg/_spout_state.py
+[1.626s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/msg/_spout_state_s.c
+[1.626s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/msg/__init__.py
+[1.626s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/juice_spout_msgs_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so
+[1.627s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/juice_spout_msgs_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so
+[1.627s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages/juice_spout_msgs/juice_spout_msgs_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so
+[1.627s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/lib/libjuice_spout_msgs__python.so
+[1.628s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/srv/RunRecipe.idl
+[1.628s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/srv/SetFill.idl
+[1.628s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/action/RunActionRecipe.idl
+[1.628s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/msg/SpoutState.idl
+[1.628s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/srv/RunRecipe.srv
+[1.629s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/srv/RunRecipe_Request.msg
+[1.629s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/srv/RunRecipe_Response.msg
+[1.629s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/srv/SetFill.srv
+[1.629s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/srv/SetFill_Request.msg
+[1.629s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/srv/SetFill_Response.msg
+[1.629s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/action/RunActionRecipe.action
+[1.630s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/msg/SpoutState.msg
+[1.630s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/ament_index/resource_index/package_run_dependencies/juice_spout_msgs
+[1.630s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/ament_index/resource_index/parent_prefix_path/juice_spout_msgs
+[1.630s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/environment/ament_prefix_path.sh
+[1.630s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/environment/path.sh
+[1.630s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/local_setup.bash
+[1.632s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/local_setup.sh
+[1.633s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/local_setup.zsh
+[1.633s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/ament_index/resource_index/packages/juice_spout_msgs
+[1.633s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/cmake/rosidl_cmake-extras.cmake
+[1.633s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.633s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.633s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[1.634s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/cmake/juice_spout_msgsConfig.cmake
+[1.634s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/cmake/juice_spout_msgsConfig-version.cmake
+[1.634s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/package.xml

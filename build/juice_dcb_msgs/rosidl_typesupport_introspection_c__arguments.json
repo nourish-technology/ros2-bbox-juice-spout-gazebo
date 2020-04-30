@@ -1,0 +1,21 @@
+{
+  "package_name": "juice_dcb_msgs",
+  "output_dir": "/home/nikhil/nourish_ws/build/juice_dcb_msgs/rosidl_typesupport_introspection_c/juice_dcb_msgs",
+  "template_dir": "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_typesupport_introspection_c/resource",
+  "idl_tuples": [
+    "/home/nikhil/nourish_ws/build/juice_dcb_msgs/rosidl_adapter/juice_dcb_msgs:msg/CommandResult.idl",
+    "/home/nikhil/nourish_ws/build/juice_dcb_msgs/rosidl_adapter/juice_dcb_msgs:srv/SetPouring.idl"
+  ],
+  "target_dependencies": [
+    "/home/nikhil/ros2_dashing/ros2-linux/lib/rosidl_typesupport_introspection_c/rosidl_typesupport_introspection_c",
+    "/home/nikhil/ros2_dashing/ros2-linux/lib/python3.6/site-packages/rosidl_typesupport_introspection_c/__init__.py",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_typesupport_introspection_c/resource/idl__rosidl_typesupport_introspection_c.h.em",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_typesupport_introspection_c/resource/idl__type_support.c.em",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_typesupport_introspection_c/resource/msg__rosidl_typesupport_introspection_c.h.em",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_typesupport_introspection_c/resource/msg__type_support.c.em",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_typesupport_introspection_c/resource/srv__rosidl_typesupport_introspection_c.h.em",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_typesupport_introspection_c/resource/srv__type_support.c.em",
+    "/home/nikhil/nourish_ws/build/juice_dcb_msgs/rosidl_adapter/juice_dcb_msgs/msg/CommandResult.idl",
+    "/home/nikhil/nourish_ws/build/juice_dcb_msgs/rosidl_adapter/juice_dcb_msgs/srv/SetPouring.idl"
+  ]
+}

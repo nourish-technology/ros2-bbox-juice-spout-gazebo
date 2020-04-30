@@ -1,0 +1,93 @@
+[0.034s] Invoking command in '/home/nikhil/nourish_ws/build/juice_spout': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs/lib:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake /home/nikhil/nourish_ws/src/ros2-bbox-juice-machine/juice_spout -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/juice_spout
+[0.134s] -- The C compiler identification is GNU 7.5.0
+[0.219s] -- The CXX compiler identification is GNU 7.5.0
+[0.224s] -- Check for working C compiler: /usr/bin/cc
+[0.332s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.332s] -- Detecting C compiler ABI info
+[0.431s] -- Detecting C compiler ABI info - done
+[0.439s] -- Detecting C compile features
+[0.738s] -- Detecting C compile features - done
+[0.741s] -- Check for working CXX compiler: /usr/bin/c++
+[0.862s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.863s] -- Detecting CXX compiler ABI info
+[0.967s] -- Detecting CXX compiler ABI info - done
+[0.972s] -- Detecting CXX compile features
+[1.492s] -- Detecting CXX compile features - done
+[1.495s] -- Found ament_cmake: 0.7.4 (/home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake/cmake)
+[1.527s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[1.527s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.752s] -- Found rclcpp: 0.7.12 (/home/nikhil/ros2_dashing/ros2-linux/share/rclcpp/cmake)
+[1.776s] -- Found rosidl_adapter: 0.7.9 (/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_adapter/cmake)
+[1.814s] -- Found rmw_implementation_cmake: 0.7.2 (/home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake)
+[1.815s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.816s] -- Looking for pthread.h
+[1.900s] -- Looking for pthread.h - found
+[1.901s] -- Looking for pthread_create
+[1.980s] -- Looking for pthread_create - not found
+[1.980s] -- Looking for pthread_create in pthreads
+[2.046s] -- Looking for pthread_create in pthreads - not found
+[2.046s] -- Looking for pthread_create in pthread
+[2.129s] -- Looking for pthread_create in pthread - found
+[2.130s] -- Found Threads: TRUE  
+[2.158s] -- Found std_msgs: 0.7.0 (/home/nikhil/ros2_dashing/ros2-linux/share/std_msgs/cmake)
+[2.163s] -- Found juice_dcb_msgs: 0.0.0 (/home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/cmake)
+[2.166s] -- Found juice_spout_msgs: 0.0.0 (/home/nikhil/nourish_ws/install/juice_spout_msgs/share/juice_spout_msgs/cmake)
+[2.212s] -- Found ament_lint_auto: 0.7.11 (/home/nikhil/ros2_dashing/ros2-linux/share/ament_lint_auto/cmake)
+[2.288s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[2.289s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.289s] -- Configured cppcheck include dirs: /home/nikhil/nourish_ws/src/ros2-bbox-juice-machine/juice_spout/include
+[2.290s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.291s] -- Added test 'lint_cmake' to check CMake code style
+[2.291s] -- Added test 'uncrustify' to check C / C++ code style
+[2.292s] -- Added test 'xmllint' to check XML markup files
+[2.294s] -- Configuring done
+[2.311s] -- Generating done
+[2.312s] -- Build files have been written to: /home/nikhil/nourish_ws/build/juice_spout
+[2.315s] Invoked command in '/home/nikhil/nourish_ws/build/juice_spout' returned '0': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs/lib:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake /home/nikhil/nourish_ws/src/ros2-bbox-juice-machine/juice_spout -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/juice_spout
+[2.317s] Invoking command in '/home/nikhil/nourish_ws/build/juice_spout': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs/lib:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_spout -- -j12 -l12
+[2.377s] [35m[1mScanning dependencies of target juice_spout[0m
+[2.419s] [ 50%] [32mBuilding CXX object CMakeFiles/juice_spout.dir/src/juice_spout_node.cpp.o[0m
+[3.384s] [01m[K/home/nikhil/nourish_ws/src/ros2-bbox-juice-machine/juice_spout/src/juice_spout_node.cpp:[m[K In constructor ‘[01m[KJuiceSpoutNode::JuiceSpoutNode()[m[K’:
+[3.385s] [01m[K/home/nikhil/nourish_ws/src/ros2-bbox-juice-machine/juice_spout/src/juice_spout_node.cpp:38:6:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstd::shared_ptr<SubscriptionT> rclcpp::Node::create_subscription(const string&, CallbackT&&, const rmw_qos_profile_t&, rclcpp::callback_group::CallbackGroup::SharedPtr, bool, typename rclcpp::message_memory_strategy::MessageMemoryStrategy<typename rclcpp::subscription_traits::has_message_type<CallbackT>::type, AllocatorT>::SharedPtr, std::shared_ptr<PublisherT>) [with MessageT = std_msgs::msg::Bool_<std::allocator<void> >; CallbackT = JuiceSpoutNode::JuiceSpoutNode()::<lambda(std_msgs::msg::Bool_<std::allocator<void> >::SharedPtr)>; Alloc = std::allocator<void>; SubscriptionT = rclcpp::Subscription<std_msgs::msg::Bool_<std::allocator<void> > >; std::__cxx11::string = std::__cxx11::basic_string<char>; rmw_qos_profile_t = rmw_qos_profile_t; rclcpp::callback_group::CallbackGroup::SharedPtr = std::shared_ptr<rclcpp::callback_group::CallbackGroup>; typename rclcpp::message_memory_strategy::MessageMemoryStrategy<typename rclcpp::subscription_traits::has_message_type<CallbackT>::type, AllocatorT>::SharedPtr = std::shared_ptr<rclcpp::message_memory_strategy::MessageMemoryStrategy<std_msgs::msg::Bool_<std::allocator<void> >, std::allocator<void> > >][m[K’ is deprecated: use create_subscription(const std::string &, const rclcpp::QoS &, CallbackT, ...) instead [[01;35m[K-Wdeprecated-declarations[m[K]
+[3.385s]      }[01;35m[K)[m[K;
+[3.385s]       [01;35m[K^[m[K
+[3.385s] In file included from [01m[K/home/nikhil/ros2_dashing/ros2-linux/include/rclcpp/node.hpp:1206:0[m[K,
+[3.385s]                  from [01m[K/home/nikhil/ros2_dashing/ros2-linux/include/rclcpp/executors/single_threaded_executor.hpp:28[m[K,
+[3.385s]                  from [01m[K/home/nikhil/ros2_dashing/ros2-linux/include/rclcpp/executors.hpp:22[m[K,
+[3.385s]                  from [01m[K/home/nikhil/ros2_dashing/ros2-linux/include/rclcpp/rclcpp.hpp:144[m[K,
+[3.385s]                  from [01m[K/home/nikhil/nourish_ws/src/ros2-bbox-juice-machine/juice_spout/src/juice_spout_node.cpp:4[m[K:
+[3.385s] [01m[K/home/nikhil/ros2_dashing/ros2-linux/include/rclcpp/node_impl.hpp:139:1:[m[K [01;36m[Knote: [m[Kdeclared here
+[3.385s]  [01;36m[KNode[m[K::create_subscription(
+[3.386s]  [01;36m[K^~~~[m[K
+[3.390s] [01m[K/home/nikhil/nourish_ws/src/ros2-bbox-juice-machine/juice_spout/src/juice_spout_node.cpp:43:6:[m[K [01;35m[Kwarning: [m[K‘[01m[Kstd::shared_ptr<SubscriptionT> rclcpp::Node::create_subscription(const string&, CallbackT&&, const rmw_qos_profile_t&, rclcpp::callback_group::CallbackGroup::SharedPtr, bool, typename rclcpp::message_memory_strategy::MessageMemoryStrategy<typename rclcpp::subscription_traits::has_message_type<CallbackT>::type, AllocatorT>::SharedPtr, std::shared_ptr<PublisherT>) [with MessageT = std_msgs::msg::Float32_<std::allocator<void> >; CallbackT = JuiceSpoutNode::JuiceSpoutNode()::<lambda(std_msgs::msg::Float32_<std::allocator<void> >::SharedPtr)>; Alloc = std::allocator<void>; SubscriptionT = rclcpp::Subscription<std_msgs::msg::Float32_<std::allocator<void> > >; std::__cxx11::string = std::__cxx11::basic_string<char>; rmw_qos_profile_t = rmw_qos_profile_t; rclcpp::callback_group::CallbackGroup::SharedPtr = std::shared_ptr<rclcpp::callback_group::CallbackGroup>; typename rclcpp::message_memory_strategy::MessageMemoryStrategy<typename rclcpp::subscription_traits::has_message_type<CallbackT>::type, AllocatorT>::SharedPtr = std::shared_ptr<rclcpp::message_memory_strategy::MessageMemoryStrategy<std_msgs::msg::Float32_<std::allocator<void> >, std::allocator<void> > >][m[K’ is deprecated: use create_subscription(const std::string &, const rclcpp::QoS &, CallbackT, ...) instead [[01;35m[K-Wdeprecated-declarations[m[K]
+[3.390s]      }[01;35m[K)[m[K;
+[3.390s]       [01;35m[K^[m[K
+[3.391s] In file included from [01m[K/home/nikhil/ros2_dashing/ros2-linux/include/rclcpp/node.hpp:1206:0[m[K,
+[3.391s]                  from [01m[K/home/nikhil/ros2_dashing/ros2-linux/include/rclcpp/executors/single_threaded_executor.hpp:28[m[K,
+[3.391s]                  from [01m[K/home/nikhil/ros2_dashing/ros2-linux/include/rclcpp/executors.hpp:22[m[K,
+[3.391s]                  from [01m[K/home/nikhil/ros2_dashing/ros2-linux/include/rclcpp/rclcpp.hpp:144[m[K,
+[3.391s]                  from [01m[K/home/nikhil/nourish_ws/src/ros2-bbox-juice-machine/juice_spout/src/juice_spout_node.cpp:4[m[K:
+[3.391s] [01m[K/home/nikhil/ros2_dashing/ros2-linux/include/rclcpp/node_impl.hpp:139:1:[m[K [01;36m[Knote: [m[Kdeclared here
+[3.391s]  [01;36m[KNode[m[K::create_subscription(
+[3.391s]  [01;36m[K^~~~[m[K
+[6.063s] [100%] [32m[1mLinking CXX executable juice_spout[0m
+[6.289s] [100%] Built target juice_spout
+[6.300s] Invoked command in '/home/nikhil/nourish_ws/build/juice_spout' returned '0': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs/lib:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_spout -- -j12 -l12
+[6.319s] Invoking command in '/home/nikhil/nourish_ws/build/juice_spout': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs/lib:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_spout --target install -- -j12 -l12
+[6.368s] [100%] Built target juice_spout
+[6.384s] [36mInstall the project...[0m
+[6.392s] -- Install configuration: ""
+[6.392s] -- Installing: /home/nikhil/nourish_ws/install/juice_spout/lib/juice_spout/juice_spout
+[6.393s] -- Set runtime path of "/home/nikhil/nourish_ws/install/juice_spout/lib/juice_spout/juice_spout" to ""
+[6.393s] -- Installing: /home/nikhil/nourish_ws/install/juice_spout/share/ament_index/resource_index/package_run_dependencies/juice_spout
+[6.394s] -- Installing: /home/nikhil/nourish_ws/install/juice_spout/share/ament_index/resource_index/parent_prefix_path/juice_spout
+[6.394s] -- Installing: /home/nikhil/nourish_ws/install/juice_spout/share/juice_spout/environment/ament_prefix_path.sh
+[6.394s] -- Installing: /home/nikhil/nourish_ws/install/juice_spout/share/juice_spout/environment/path.sh
+[6.394s] -- Installing: /home/nikhil/nourish_ws/install/juice_spout/share/juice_spout/local_setup.bash
+[6.394s] -- Installing: /home/nikhil/nourish_ws/install/juice_spout/share/juice_spout/local_setup.sh
+[6.394s] -- Installing: /home/nikhil/nourish_ws/install/juice_spout/share/juice_spout/local_setup.zsh
+[6.394s] -- Installing: /home/nikhil/nourish_ws/install/juice_spout/share/ament_index/resource_index/packages/juice_spout
+[6.395s] -- Installing: /home/nikhil/nourish_ws/install/juice_spout/share/juice_spout/cmake/juice_spoutConfig.cmake
+[6.395s] -- Installing: /home/nikhil/nourish_ws/install/juice_spout/share/juice_spout/cmake/juice_spoutConfig-version.cmake
+[6.395s] -- Installing: /home/nikhil/nourish_ws/install/juice_spout/share/juice_spout/package.xml
+[6.398s] Invoked command in '/home/nikhil/nourish_ws/build/juice_spout' returned '0': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/juice_spout_msgs/lib:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_spout --target install -- -j12 -l12

@@ -1,0 +1,130 @@
+[0.073s] Invoking command in '/home/nikhil/nourish_ws/build/juice_dcb_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_dcb_msgs -- -j12 -l12
+[0.167s] [ 10%] Built target juice_dcb_msgs__rosidl_generator_c
+[0.179s] [ 12%] Built target juice_dcb_msgs__cpp
+[0.238s] [ 23%] Built target juice_dcb_msgs__rosidl_typesupport_c
+[0.254s] [ 33%] Built target juice_dcb_msgs__rosidl_typesupport_introspection_cpp
+[0.277s] [ 43%] Built target juice_dcb_msgs__rosidl_typesupport_fastrtps_cpp
+[0.308s] [ 53%] Built target juice_dcb_msgs__rosidl_typesupport_cpp
+[0.333s] [ 64%] Built target juice_dcb_msgs__rosidl_typesupport_introspection_c
+[0.395s] [ 74%] Built target juice_dcb_msgs__rosidl_typesupport_fastrtps_c
+[0.430s] [ 74%] Built target juice_dcb_msgs
+[0.464s] [ 76%] Built target juice_dcb_msgs__py
+[0.514s] [ 84%] Built target juice_dcb_msgs__python
+[0.564s] [ 89%] Built target juice_dcb_msgs__rosidl_typesupport_introspection_c__pyext
+[0.576s] [ 94%] Built target juice_dcb_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.585s] [100%] Built target juice_dcb_msgs__rosidl_typesupport_c__pyext
+[0.633s] Invoked command in '/home/nikhil/nourish_ws/build/juice_dcb_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_dcb_msgs -- -j12 -l12
+[1.119s] Invoking command in '/home/nikhil/nourish_ws/build/juice_dcb_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_dcb_msgs --target install -- -j12 -l12
+[1.223s] [  2%] Built target juice_dcb_msgs__cpp
+[1.238s] [ 12%] Built target juice_dcb_msgs__rosidl_generator_c
+[1.293s] [ 23%] Built target juice_dcb_msgs__rosidl_typesupport_cpp
+[1.293s] [ 33%] Built target juice_dcb_msgs__rosidl_typesupport_introspection_cpp
+[1.293s] [ 43%] Built target juice_dcb_msgs__rosidl_typesupport_fastrtps_cpp
+[1.300s] [ 53%] Built target juice_dcb_msgs__rosidl_typesupport_c
+[1.310s] [ 64%] Built target juice_dcb_msgs__rosidl_typesupport_introspection_c
+[1.331s] [ 74%] Built target juice_dcb_msgs__rosidl_typesupport_fastrtps_c
+[1.357s] [ 74%] Built target juice_dcb_msgs
+[1.388s] [ 76%] Built target juice_dcb_msgs__py
+[1.425s] [ 84%] Built target juice_dcb_msgs__python
+[1.467s] [ 89%] Built target juice_dcb_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.469s] [ 94%] Built target juice_dcb_msgs__rosidl_typesupport_c__pyext
+[1.473s] [100%] Built target juice_dcb_msgs__rosidl_typesupport_introspection_c__pyext
+[1.510s] [36mInstall the project...[0m
+[1.531s] -- Install configuration: ""
+[1.532s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/ament_index/resource_index/rosidl_interfaces/juice_dcb_msgs
+[1.532s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_c.so
+[1.532s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/environment/library_path.sh
+[1.532s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_cpp.so
+[1.532s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs
+[1.532s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg
+[1.532s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__struct.h
+[1.532s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__functions.h
+[1.532s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result.h
+[1.532s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__type_support.h
+[1.532s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/rosidl_generator_c__visibility_control.h
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__functions.c
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__type_support.h
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__functions.h
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring.h
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__functions.c
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__struct.h
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_generator_c.so
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result.hpp
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__struct.hpp
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__traits.hpp
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv
+[1.533s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__traits.hpp
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__struct.hpp
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring.hpp
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__rosidl_typesupport_fastrtps_c.h
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__rosidl_typesupport_fastrtps_c.h
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_fastrtps_c.so
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__rosidl_typesupport_fastrtps_cpp.hpp
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/dds_fastrtps
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.534s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__rosidl_typesupport_fastrtps_cpp.hpp
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/dds_fastrtps
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_fastrtps_cpp.so
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__rosidl_typesupport_introspection_c.h
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__type_support.c
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__rosidl_typesupport_introspection_c.h
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__type_support.c
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_introspection_c.so
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg
+[1.535s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__rosidl_typesupport_introspection_cpp.hpp
+[1.536s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__type_support.cpp
+[1.536s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv
+[1.536s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__rosidl_typesupport_introspection_cpp.hpp
+[1.536s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__type_support.cpp
+[1.536s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_introspection_cpp.so
+[1.536s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/environment/pythonpath.sh
+[1.536s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/__init__.py
+[1.632s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/msg
+[1.635s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/msg/_command_result.py
+[1.635s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/msg/__init__.py
+[1.635s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/msg/_command_result_s.c
+[1.635s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/srv
+[1.635s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/srv/__init__.py
+[1.637s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/srv/_set_pouring_s.c
+[1.638s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/srv/_set_pouring.py
+[1.640s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/juice_dcb_msgs_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so
+[1.641s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/juice_dcb_msgs_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so
+[1.644s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/juice_dcb_msgs_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so
+[1.644s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__python.so
+[1.645s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/msg/CommandResult.idl
+[1.645s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/srv/SetPouring.idl
+[1.645s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/msg/CommandResult.msg
+[1.645s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/srv/SetPouring.srv
+[1.645s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/srv/SetPouring_Request.msg
+[1.645s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/srv/SetPouring_Response.msg
+[1.645s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/ament_index/resource_index/package_run_dependencies/juice_dcb_msgs
+[1.646s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/ament_index/resource_index/parent_prefix_path/juice_dcb_msgs
+[1.646s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/environment/ament_prefix_path.sh
+[1.646s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/environment/path.sh
+[1.646s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/local_setup.bash
+[1.646s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/local_setup.sh
+[1.647s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/local_setup.zsh
+[1.647s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/ament_index/resource_index/packages/juice_dcb_msgs
+[1.647s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/cmake/rosidl_cmake-extras.cmake
+[1.647s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[1.648s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.648s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.648s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/cmake/juice_dcb_msgsConfig.cmake
+[1.648s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/cmake/juice_dcb_msgsConfig-version.cmake
+[1.648s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/package.xml
+[1.670s] Invoked command in '/home/nikhil/nourish_ws/build/juice_dcb_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_dcb_msgs --target install -- -j12 -l12

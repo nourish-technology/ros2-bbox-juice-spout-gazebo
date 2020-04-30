@@ -1,0 +1,97 @@
+[0.062s] [  4%] Built target gtest
+[0.063s] [  8%] Built target gtest_main
+[0.080s] [ 20%] Built target gazebo_ros_utils
+[0.080s] [ 20%] Built target gazebo_ros_node
+[0.126s] [ 24%] Built target test_conversions
+[0.130s] [ 28%] Built target test_plugins
+[0.131s] [ 33%] Built target multiple_nodes
+[0.131s] [ 37%] Built target args_init
+[0.134s] [ 42%] Built target sdf_node
+[0.136s] [ 46%] Built target ros_world_plugin
+[0.138s] [ 51%] Built target test_utils
+[0.138s] [ 55%] Built target gazebo_ros_init
+[0.145s] [ 60%] Built target gazebo_ros_factory
+[0.146s] [ 64%] Built target gazebo_ros_state
+[0.152s] [ 68%] Built target gazebo_ros_properties
+[0.157s] [ 73%] Built target test_gazebo_ros_properties
+[0.166s] [ 77%] Built target create_node_without_init
+[0.169s] [ 82%] Built target test_sim_time
+[0.175s] [ 86%] Built target test_node
+[0.181s] [ 91%] Built target test_gazebo_ros_init
+[0.182s] [ 95%] Built target test_gazebo_ros_factory
+[0.182s] [100%] Built target test_gazebo_ros_state
+[0.292s] [  4%] Built target gtest
+[0.293s] [  8%] Built target gtest_main
+[0.306s] [ 15%] Built target gazebo_ros_node
+[0.308s] [ 20%] Built target gazebo_ros_utils
+[0.356s] [ 28%] Built target create_node_without_init
+[0.357s] [ 28%] Built target multiple_nodes
+[0.357s] [ 33%] Built target args_init
+[0.357s] [ 42%] Built target ros_world_plugin
+[0.357s] [ 42%] Built target test_conversions
+[0.357s] [ 46%] Built target sdf_node
+[0.361s] [ 51%] Built target test_plugins
+[0.366s] [ 55%] Built target test_utils
+[0.370s] [ 60%] Built target gazebo_ros_state
+[0.372s] [ 64%] Built target gazebo_ros_init
+[0.372s] [ 68%] Built target gazebo_ros_factory
+[0.374s] [ 73%] Built target gazebo_ros_properties
+[0.401s] [ 77%] Built target test_node
+[0.401s] [ 82%] Built target test_sim_time
+[0.404s] [ 86%] Built target test_gazebo_ros_init
+[0.409s] [ 95%] Built target test_gazebo_ros_properties
+[0.409s] [ 95%] Built target test_gazebo_ros_state
+[0.411s] [100%] Built target test_gazebo_ros_factory
+[0.428s] [36mInstall the project...[0m
+[0.436s] -- Install configuration: ""
+[0.436s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros/environment/pythonpath.sh
+[0.436s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/lib/python3.6/site-packages/scripts/
+[0.436s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/lib/python3.6/site-packages/scripts//gazebo_ros_paths.py
+[0.436s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/lib/python3.6/site-packages/scripts//__init__.py
+[0.437s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/lib/python3.6/site-packages/scripts//spawn_entity.py
+[0.464s] Listing '/home/nikhil/nourish_ws/install/gazebo_ros/lib/python3.6/site-packages/scripts/'...
+[0.466s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros/environment/library_path.sh
+[0.467s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/ament_index/resource_index/package_run_dependencies/gazebo_ros
+[0.467s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/ament_index/resource_index/parent_prefix_path/gazebo_ros
+[0.467s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros/environment/ament_prefix_path.sh
+[0.467s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros/environment/path.sh
+[0.467s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros/local_setup.bash
+[0.468s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros/local_setup.sh
+[0.468s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros/local_setup.zsh
+[0.468s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/ament_index/resource_index/packages/gazebo_ros
+[0.468s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros/cmake/ament_cmake_export_libraries-extras.cmake
+[0.468s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.468s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.468s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros/cmake/gazebo_rosConfig.cmake
+[0.468s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros/cmake/gazebo_rosConfig-version.cmake
+[0.468s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros/package.xml
+[0.468s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/include
+[0.468s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/include/gazebo_ros
+[0.468s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/include/gazebo_ros/gazebo_ros_state.hpp
+[0.468s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/include/gazebo_ros/conversions
+[0.468s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/include/gazebo_ros/conversions/geometry_msgs.hpp
+[0.468s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/include/gazebo_ros/conversions/sensor_msgs.hpp
+[0.468s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/include/gazebo_ros/conversions/generic.hpp
+[0.469s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/include/gazebo_ros/conversions/builtin_interfaces.hpp
+[0.469s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/include/gazebo_ros/conversions/gazebo_msgs.hpp
+[0.469s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/include/gazebo_ros/node.hpp
+[0.469s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/include/gazebo_ros/gazebo_ros_factory.hpp
+[0.469s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/include/gazebo_ros/testing_utils.hpp
+[0.469s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/include/gazebo_ros/gazebo_ros_properties.hpp
+[0.469s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/include/gazebo_ros/executor.hpp
+[0.469s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/include/gazebo_ros/gazebo_ros_init.hpp
+[0.469s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/include/gazebo_ros/utils.hpp
+[0.469s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/lib/gazebo_ros/gazebo_ros_paths.py
+[0.469s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/lib/libgazebo_ros_factory.so
+[0.469s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/lib/libgazebo_ros_init.so
+[0.469s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/lib/libgazebo_ros_node.so
+[0.469s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/lib/libgazebo_ros_properties.so
+[0.470s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/lib/libgazebo_ros_state.so
+[0.470s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/lib/libgazebo_ros_utils.so
+[0.470s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/lib/gazebo_ros/spawn_entity.py
+[0.470s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros//launch
+[0.470s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros//launch/gazebo.launch.py
+[0.470s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros//launch/empty_world.launch.py
+[0.470s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros//launch/gzclient.launch.py
+[0.470s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros//launch/gzserver.launch.py
+[0.470s] -- Up-to-date: /home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros//launch/spawn_entity_demo.launch.py

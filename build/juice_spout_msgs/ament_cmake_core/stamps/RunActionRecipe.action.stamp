@@ -1,0 +1,16 @@
+string recipe_identifier # request
+---
+
+uint8 RESULT_UNKNOWN = 0
+uint8 RESULT_SUCCESS = 1
+uint8 RESULT_ERROR_UNKNOWN = 2           # generic error
+uint8 RESULT_ERROR_TIME_OUT = 3           # pour timed out
+uint8 RESULT_ERROR_BECAME_UNHEALTHY = 4   # pour stopped early due to component becoming unhealthy
+uint8 RESULT_ERROR_CUP_REMOVED = 5        # cup was removed during pour
+uint8 RESULT_ERROR_INSUFFICIENT_FILL_LEVEL = 6
+uint8 RESULT_ERROR_INVALID_RECIPE = 7
+uint8 RESULT_MANUALLY_STOPPED = 8 
+
+uint8 final_status 
+---
+float32 percent_complete # feedback during operation

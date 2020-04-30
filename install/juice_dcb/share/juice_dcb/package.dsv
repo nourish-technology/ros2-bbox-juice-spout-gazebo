@@ -1,0 +1,8 @@
+source;share/juice_dcb/hook/cmake_prefix_path.ps1
+source;share/juice_dcb/hook/cmake_prefix_path.dsv
+source;share/juice_dcb/hook/cmake_prefix_path.sh
+source;share/juice_dcb/local_setup.bash
+source;share/juice_dcb/local_setup.dsv
+source;share/juice_dcb/local_setup.ps1
+source;share/juice_dcb/local_setup.sh
+source;share/juice_dcb/local_setup.zsh

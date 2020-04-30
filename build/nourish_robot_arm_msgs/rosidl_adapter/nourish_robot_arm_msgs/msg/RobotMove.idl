@@ -1,0 +1,43 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from nourish_robot_arm_msgs/msg/RobotMove.msg
+// generated code does not contain a copyright notice
+
+#include "nourish_robot_arm_msgs/msg/Acceleration.idl"
+#include "nourish_robot_arm_msgs/msg/Joint.idl"
+#include "nourish_robot_arm_msgs/msg/Pose.idl"
+#include "nourish_robot_arm_msgs/msg/Speed.idl"
+#include "nourish_robot_arm_msgs/msg/Tool.idl"
+#include "nourish_robot_arm_msgs/msg/WorkObject.idl"
+#include "nourish_robot_arm_msgs/msg/Zone.idl"
+
+module nourish_robot_arm_msgs {
+  module msg {
+    module RobotMove_Constants {
+      const uint8 INTERPOLATION_JOINT = 0;
+      const uint8 INTERPOLATION_POSE = 1;
+      const uint8 TARGET_TYPE_JOINT = 0;
+      const uint8 TARGET_TYPE_POSE = 1;
+    };
+    struct RobotMove {
+      nourish_robot_arm_msgs::msg::Speed speed;
+
+      nourish_robot_arm_msgs::msg::Acceleration acceleration;
+
+      nourish_robot_arm_msgs::msg::Zone zone;
+
+      nourish_robot_arm_msgs::msg::Tool tool;
+
+      nourish_robot_arm_msgs::msg::WorkObject work_object;
+
+      uint8 interpolation;
+
+      uint8 target_type;
+
+      @verbatim (language="comment", text=
+        " only either joint data or pose datat will be read based on target_type")
+      nourish_robot_arm_msgs::msg::Pose pose;
+
+      nourish_robot_arm_msgs::msg::Joint joint;
+    };
+  };
+};

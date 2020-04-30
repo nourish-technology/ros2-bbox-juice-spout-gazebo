@@ -1,0 +1,4 @@
+[0.029s] Invoking command in '/home/nikhil/nourish_ws/build/juice_spout_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_spout_msgs -- -j12 -l12
+[0.327s] Invoked command in '/home/nikhil/nourish_ws/build/juice_spout_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_spout_msgs -- -j12 -l12
+[0.441s] Invoking command in '/home/nikhil/nourish_ws/build/juice_spout_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_spout_msgs --target install -- -j12 -l12
+[0.801s] Invoked command in '/home/nikhil/nourish_ws/build/juice_spout_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_spout_msgs --target install -- -j12 -l12

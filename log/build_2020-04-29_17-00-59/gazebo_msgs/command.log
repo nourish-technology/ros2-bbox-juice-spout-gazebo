@@ -1,0 +1,6 @@
+[0.070s] Invoking command in '/home/nikhil/nourish_ws/build/gazebo_msgs': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros-simulation/gazebo_ros_pkgs/gazebo_msgs -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/gazebo_msgs
+[6.086s] Invoked command in '/home/nikhil/nourish_ws/build/gazebo_msgs' returned '0': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros-simulation/gazebo_ros_pkgs/gazebo_msgs -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/gazebo_msgs
+[6.088s] Invoking command in '/home/nikhil/nourish_ws/build/gazebo_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/gazebo_msgs -- -j12 -l12
+[47.683s] Invoked command in '/home/nikhil/nourish_ws/build/gazebo_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/gazebo_msgs -- -j12 -l12
+[48.516s] Invoking command in '/home/nikhil/nourish_ws/build/gazebo_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/gazebo_msgs --target install -- -j12 -l12
+[48.970s] Invoked command in '/home/nikhil/nourish_ws/build/gazebo_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/gazebo_msgs --target install -- -j12 -l12

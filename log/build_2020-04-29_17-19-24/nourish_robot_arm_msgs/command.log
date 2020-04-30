@@ -1,0 +1,4 @@
+[0.076s] Invoking command in '/home/nikhil/nourish_ws/build/nourish_robot_arm_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_robot_arm_msgs -- -j12 -l12
+[0.736s] Invoked command in '/home/nikhil/nourish_ws/build/nourish_robot_arm_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_robot_arm_msgs -- -j12 -l12
+[1.074s] Invoking command in '/home/nikhil/nourish_ws/build/nourish_robot_arm_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_robot_arm_msgs --target install -- -j12 -l12
+[1.653s] Invoked command in '/home/nikhil/nourish_ws/build/nourish_robot_arm_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_robot_arm_msgs --target install -- -j12 -l12

@@ -1,0 +1,33 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from juice_spout_msgs/action/RunActionRecipe.action
+// generated code does not contain a copyright notice
+
+
+module juice_spout_msgs {
+  module action {
+    struct RunActionRecipe_Goal {
+      @verbatim (language="comment", text=
+        " request")
+      string recipe_identifier;
+    };
+    module RunActionRecipe_Result_Constants {
+      const uint8 RESULT_UNKNOWN = 0;
+      const uint8 RESULT_SUCCESS = 1;
+      const uint8 RESULT_ERROR_UNKNOWN = 2;
+      const uint8 RESULT_ERROR_TIME_OUT = 3;
+      const uint8 RESULT_ERROR_BECAME_UNHEALTHY = 4;
+      const uint8 RESULT_ERROR_CUP_REMOVED = 5;
+      const uint8 RESULT_ERROR_INSUFFICIENT_FILL_LEVEL = 6;
+      const uint8 RESULT_ERROR_INVALID_RECIPE = 7;
+      const uint8 RESULT_MANUALLY_STOPPED = 8;
+    };
+    struct RunActionRecipe_Result {
+      uint8 final_status;
+    };
+    struct RunActionRecipe_Feedback {
+      @verbatim (language="comment", text=
+        " feedback during operation")
+      float percent_complete;
+    };
+  };
+};

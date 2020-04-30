@@ -1,0 +1,20 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from juice_dcb_msgs/msg/CommandResult.msg
+// generated code does not contain a copyright notice
+
+
+module juice_dcb_msgs {
+  module msg {
+    module CommandResult_Constants {
+      const uint8 STATUS_ERROR_UNKNOWN = 0;
+      const uint8 STATUS_SUCCESS = 1;
+      const uint8 STATUS_ERROR_BUSY = 2;
+      const uint8 STATUS_ERROR_NOT_CONNECTED = 3;
+    };
+    struct CommandResult {
+      uint8 status;
+
+      string debug_msg;
+    };
+  };
+};

@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from nourish_robot_arm_msgs/msg/Joint.msg
+// generated code does not contain a copyright notice
+
+
+module nourish_robot_arm_msgs {
+  module msg {
+    struct Joint {
+      float j1;
+
+      float j2;
+
+      float j3;
+
+      float j4;
+
+      float j5;
+
+      float j6;
+    };
+  };
+};

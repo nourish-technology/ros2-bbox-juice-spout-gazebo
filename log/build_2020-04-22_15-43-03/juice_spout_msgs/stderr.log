@@ -1,0 +1,158 @@
+[2.039s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_include_directories-extras.cmake:11 (message):
+[2.039s]   Package 'rmw_connext_shared_cpp' exports the include directory
+[2.039s]   '/opt/rti.com/rti_connext_dds-5.3.1/include' which doesn't exist
+[2.040s] Call Stack (most recent call first):
+[2.041s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[2.041s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[2.042s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[2.042s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[2.042s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[2.042s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[2.042s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[2.042s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[2.043s]   CMakeLists.txt:43 (rosidl_generate_interfaces)
+[2.043s] 
+[2.043s] 
+[2.043s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_include_directories-extras.cmake:11 (message):
+[2.044s]   Package 'rmw_connext_shared_cpp' exports the include directory
+[2.044s]   '/opt/rti.com/rti_connext_dds-5.3.1/include/ndds' which doesn't exist
+[2.044s] Call Stack (most recent call first):
+[2.044s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[2.044s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[2.044s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[2.044s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[2.045s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[2.045s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[2.045s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[2.045s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[2.045s]   CMakeLists.txt:43 (rosidl_generate_interfaces)
+[2.045s] 
+[2.046s] 
+[2.047s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_libraries-extras.cmake:62 (message):
+[2.047s]   Package 'rmw_connext_shared_cpp' exports the library
+[2.047s]   '/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0/libnddsc.so'
+[2.047s]   which doesn't exist
+[2.048s] Call Stack (most recent call first):
+[2.048s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[2.048s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[2.048s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[2.049s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[2.049s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[2.049s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[2.050s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[2.050s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[2.050s]   CMakeLists.txt:43 (rosidl_generate_interfaces)
+[2.050s] 
+[2.050s] 
+[2.050s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_libraries-extras.cmake:62 (message):
+[2.050s]   Package 'rmw_connext_shared_cpp' exports the library
+[2.050s]   '/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0/libnddscore.so'
+[2.051s]   which doesn't exist
+[2.051s] Call Stack (most recent call first):
+[2.051s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[2.052s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[2.052s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[2.052s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[2.053s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[2.053s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[2.053s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[2.053s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[2.053s]   CMakeLists.txt:43 (rosidl_generate_interfaces)
+[2.054s] 
+[2.054s] 
+[2.055s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_libraries-extras.cmake:62 (message):
+[2.055s]   Package 'rmw_connext_shared_cpp' exports the library
+[2.055s]   '/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0/libnddscpp.so'
+[2.055s]   which doesn't exist
+[2.057s] Call Stack (most recent call first):
+[2.057s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[2.057s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[2.058s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[2.058s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[2.059s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[2.059s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[2.059s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[2.059s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[2.060s]   CMakeLists.txt:43 (rosidl_generate_interfaces)
+[2.060s] 
+[2.060s] 
+[2.061s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_libraries-extras.cmake:62 (message):
+[2.061s]   Package 'rmw_connext_shared_cpp' exports the library
+[2.061s]   '/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0/librticonnextmsgcpp.so'
+[2.061s]   which doesn't exist
+[2.061s] Call Stack (most recent call first):
+[2.064s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[2.065s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[2.065s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[2.065s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[2.065s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[2.065s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[2.066s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[2.066s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[2.066s]   CMakeLists.txt:43 (rosidl_generate_interfaces)
+[2.066s] 
+[2.066s] 
+[2.066s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_libraries-extras.cmake:62 (message):
+[2.066s]   Package 'rmw_connext_shared_cpp' exports the library
+[2.066s]   '/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0/libnddscd.so'
+[2.066s]   which doesn't exist
+[2.067s] Call Stack (most recent call first):
+[2.067s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[2.067s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[2.067s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[2.067s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[2.067s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[2.067s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[2.067s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[2.068s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[2.068s]   CMakeLists.txt:43 (rosidl_generate_interfaces)
+[2.068s] 
+[2.068s] 
+[2.068s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_libraries-extras.cmake:62 (message):
+[2.068s]   Package 'rmw_connext_shared_cpp' exports the library
+[2.068s]   '/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0/libnddscored.so'
+[2.068s]   which doesn't exist
+[2.069s] Call Stack (most recent call first):
+[2.069s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[2.069s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[2.069s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[2.069s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[2.069s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[2.069s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[2.069s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[2.069s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[2.070s]   CMakeLists.txt:43 (rosidl_generate_interfaces)
+[2.070s] 
+[2.070s] 
+[2.070s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_libraries-extras.cmake:62 (message):
+[2.070s]   Package 'rmw_connext_shared_cpp' exports the library
+[2.070s]   '/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0/libnddscppd.so'
+[2.070s]   which doesn't exist
+[2.070s] Call Stack (most recent call first):
+[2.071s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[2.071s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[2.071s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[2.071s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[2.071s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[2.071s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[2.071s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[2.071s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[2.072s]   CMakeLists.txt:43 (rosidl_generate_interfaces)
+[2.072s] 
+[2.072s] 
+[2.072s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_libraries-extras.cmake:62 (message):
+[2.072s]   Package 'rmw_connext_shared_cpp' exports the library
+[2.072s]   '/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0/librticonnextmsgcppd.so'
+[2.072s]   which doesn't exist
+[2.072s] Call Stack (most recent call first):
+[2.073s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[2.073s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[2.073s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[2.073s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[2.073s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[2.073s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[2.073s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[2.073s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[2.074s]   CMakeLists.txt:43 (rosidl_generate_interfaces)
+[2.074s] 
+[2.074s] 

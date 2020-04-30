@@ -1,0 +1,52 @@
+[0.047s] Invoking command in '/home/nikhil/nourish_ws/build/serial': /usr/bin/cmake /home/nikhil/nourish_ws/src/serial-ros2 -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/serial
+[0.111s] -- The C compiler identification is GNU 7.5.0
+[0.166s] -- The CXX compiler identification is GNU 7.5.0
+[0.168s] -- Check for working C compiler: /usr/bin/cc
+[0.246s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.246s] -- Detecting C compiler ABI info
+[0.316s] -- Detecting C compiler ABI info - done
+[0.320s] -- Detecting C compile features
+[0.555s] -- Detecting C compile features - done
+[0.557s] -- Check for working CXX compiler: /usr/bin/c++
+[0.650s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.651s] -- Detecting CXX compiler ABI info
+[0.739s] -- Detecting CXX compiler ABI info - done
+[0.748s] -- Detecting CXX compile features
+[1.116s] -- Detecting CXX compile features - done
+[1.118s] -- Found ament_cmake: 0.7.4 (/home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake/cmake)
+[1.147s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[1.148s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.476s] -- Configuring done
+[1.479s] -- Generating done
+[1.480s] -- Build files have been written to: /home/nikhil/nourish_ws/build/serial
+[1.482s] Invoked command in '/home/nikhil/nourish_ws/build/serial' returned '0': /usr/bin/cmake /home/nikhil/nourish_ws/src/serial-ros2 -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/serial
+[1.484s] Invoking command in '/home/nikhil/nourish_ws/build/serial': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/serial -- -j12 -l12
+[1.533s] [35m[1mScanning dependencies of target serial[0m
+[1.546s] [ 50%] [32mBuilding CXX object CMakeFiles/serial.dir/src/impl/list_ports/list_ports_linux.cc.o[0m
+[1.547s] [ 50%] [32mBuilding CXX object CMakeFiles/serial.dir/src/serial.cc.o[0m
+[1.547s] [ 75%] [32mBuilding CXX object CMakeFiles/serial.dir/src/impl/unix.cc.o[0m
+[2.065s] [100%] [32m[1mLinking CXX static library libserial.a[0m
+[2.106s] [100%] Built target serial
+[2.118s] Invoked command in '/home/nikhil/nourish_ws/build/serial' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/serial -- -j12 -l12
+[2.150s] Invoking command in '/home/nikhil/nourish_ws/build/serial': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/serial --target install -- -j12 -l12
+[2.211s] [100%] Built target serial
+[2.230s] [36mInstall the project...[0m
+[2.254s] -- Install configuration: ""
+[2.254s] -- Installing: /home/nikhil/nourish_ws/install/serial/share/serial/environment/library_path.sh
+[2.255s] -- Installing: /home/nikhil/nourish_ws/install/serial/lib/libserial.a
+[2.255s] -- Installing: /home/nikhil/nourish_ws/install/serial/include/serial/serial.h
+[2.255s] -- Installing: /home/nikhil/nourish_ws/install/serial/include/serial/v8stdint.h
+[2.255s] -- Installing: /home/nikhil/nourish_ws/install/serial/share/ament_index/resource_index/package_run_dependencies/serial
+[2.256s] -- Installing: /home/nikhil/nourish_ws/install/serial/share/ament_index/resource_index/parent_prefix_path/serial
+[2.256s] -- Installing: /home/nikhil/nourish_ws/install/serial/share/serial/environment/ament_prefix_path.sh
+[2.256s] -- Installing: /home/nikhil/nourish_ws/install/serial/share/serial/environment/path.sh
+[2.256s] -- Installing: /home/nikhil/nourish_ws/install/serial/share/serial/local_setup.bash
+[2.257s] -- Installing: /home/nikhil/nourish_ws/install/serial/share/serial/local_setup.sh
+[2.257s] -- Installing: /home/nikhil/nourish_ws/install/serial/share/serial/local_setup.zsh
+[2.259s] -- Installing: /home/nikhil/nourish_ws/install/serial/share/ament_index/resource_index/packages/serial
+[2.260s] -- Installing: /home/nikhil/nourish_ws/install/serial/share/serial/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.260s] -- Installing: /home/nikhil/nourish_ws/install/serial/share/serial/cmake/ament_cmake_export_libraries-extras.cmake
+[2.260s] -- Installing: /home/nikhil/nourish_ws/install/serial/share/serial/cmake/serialConfig.cmake
+[2.261s] -- Installing: /home/nikhil/nourish_ws/install/serial/share/serial/cmake/serialConfig-version.cmake
+[2.261s] -- Installing: /home/nikhil/nourish_ws/install/serial/share/serial/package.xml
+[2.261s] Invoked command in '/home/nikhil/nourish_ws/build/serial' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/serial --target install -- -j12 -l12

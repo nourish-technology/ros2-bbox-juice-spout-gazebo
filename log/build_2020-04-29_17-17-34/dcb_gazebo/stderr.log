@@ -1,0 +1,5 @@
+[2.303s] CMake Error at cmake_install.cmake:108 (file):
+[2.303s]   file INSTALL cannot find "/home/nikhil/nourish_ws/src/dcb_gazebo/include".
+[2.303s] 
+[2.303s] 
+[2.303s] make: *** [install] Error 1

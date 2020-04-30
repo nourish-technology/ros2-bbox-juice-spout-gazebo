@@ -1,0 +1,10 @@
+[0.337s] [01m[K/home/nikhil/nourish_ws/src/ros2-nourish-dcb/src/coms.cpp:[m[K In member function ‘[01m[Kfloat nourish::dcb::DCBComs::run_read_float(const string&)[m[K’:
+[0.337s] [01m[K/home/nikhil/nourish_ws/src/ros2-nourish-dcb/src/coms.cpp:209:16:[m[K [01;31m[Kerror: [m[Kconflicting declaration ‘[01m[Kconst auto result[m[K’
+[0.337s]      const auto [01;31m[Kresult[m[K = "WGT=60.0";
+[0.338s]                 [01;31m[K^~~~~~[m[K
+[0.338s] [01m[K/home/nikhil/nourish_ws/src/ros2-nourish-dcb/src/coms.cpp:208:16:[m[K [01;36m[Knote: [m[Kprevious declaration as ‘[01m[Kconst std::__cxx11::basic_string<char> result[m[K’
+[0.338s]      const auto [01;36m[Kresult[m[K = this->run_read (cmd);
+[0.338s]                 [01;36m[K^~~~~~[m[K
+[0.380s] make[2]: *** [CMakeFiles/nourish_dcb.dir/src/coms.cpp.o] Error 1
+[0.381s] make[1]: *** [CMakeFiles/nourish_dcb.dir/all] Error 2
+[0.381s] make: *** [all] Error 2

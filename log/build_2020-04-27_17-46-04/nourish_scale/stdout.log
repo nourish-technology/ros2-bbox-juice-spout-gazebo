@@ -1,0 +1,29 @@
+[0.113s] [35m[1mScanning dependencies of target scale[0m
+[0.115s] [ 16%] Built target gtest
+[0.116s] [ 33%] Built target gtest_main
+[0.132s] [35m[1mScanning dependencies of target nourish_scale_my_test[0m
+[0.150s] [ 41%] [32mBuilding CXX object CMakeFiles/scale.dir/src/scale_node.cpp.o[0m
+[0.172s] [ 50%] [32mBuilding CXX object CMakeFiles/nourish_scale_my_test.dir/src/scale_node.cpp.o[0m
+[2.211s] [ 58%] [32m[1mLinking CXX executable scale[0m
+[2.234s] [ 66%] [32m[1mLinking CXX executable nourish_scale_my_test[0m
+[2.366s] [ 83%] Built target scale
+[2.450s] [100%] Built target nourish_scale_my_test
+[2.532s] [ 16%] Built target gtest_main
+[2.532s] [ 33%] Built target gtest
+[2.538s] [ 66%] Built target scale
+[2.559s] [100%] Built target nourish_scale_my_test
+[2.576s] [36mInstall the project...[0m
+[2.584s] -- Install configuration: ""
+[2.584s] -- Installing: /home/nikhil/nourish_ws/install/nourish_scale/lib/nourish_scale/scale
+[2.585s] -- Set runtime path of "/home/nikhil/nourish_ws/install/nourish_scale/lib/nourish_scale/scale" to ""
+[2.585s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_scale/share/ament_index/resource_index/package_run_dependencies/nourish_scale
+[2.586s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_scale/share/ament_index/resource_index/parent_prefix_path/nourish_scale
+[2.586s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_scale/share/nourish_scale/environment/ament_prefix_path.sh
+[2.586s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_scale/share/nourish_scale/environment/path.sh
+[2.586s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_scale/share/nourish_scale/local_setup.bash
+[2.586s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_scale/share/nourish_scale/local_setup.sh
+[2.586s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_scale/share/nourish_scale/local_setup.zsh
+[2.586s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_scale/share/ament_index/resource_index/packages/nourish_scale
+[2.586s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_scale/share/nourish_scale/cmake/nourish_scaleConfig.cmake
+[2.586s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_scale/share/nourish_scale/cmake/nourish_scaleConfig-version.cmake
+[2.586s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_scale/share/nourish_scale/package.xml

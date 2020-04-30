@@ -1,0 +1,16 @@
+[0.026s] Invoking command in '/home/nikhil/nourish_ws/build/nourish_robot_arm_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_robot_arm_msgs -- -j12 -l12
+[0.108s] [  0%] Built target nourish_robot_arm_msgs__cpp
+[0.125s] [ 12%] Built target nourish_robot_arm_msgs__rosidl_generator_c
+[0.157s] [ 24%] Built target nourish_robot_arm_msgs__rosidl_typesupport_cpp
+[0.162s] [ 36%] Built target nourish_robot_arm_msgs__rosidl_typesupport_introspection_cpp
+[0.163s] [ 48%] Built target nourish_robot_arm_msgs__rosidl_typesupport_fastrtps_cpp
+[0.167s] [ 60%] Built target nourish_robot_arm_msgs__rosidl_typesupport_c
+[0.171s] [ 72%] Built target nourish_robot_arm_msgs__rosidl_typesupport_introspection_c
+[0.201s] [ 84%] Built target nourish_robot_arm_msgs__rosidl_typesupport_fastrtps_c
+[0.224s] [ 84%] Built target nourish_robot_arm_msgs
+[0.249s] [ 85%] Built target nourish_robot_arm_msgs__py
+[0.299s] [ 96%] Built target nourish_robot_arm_msgs__python
+[0.327s] [ 98%] Built target nourish_robot_arm_msgs__rosidl_typesupport_introspection_c__pyext
+[0.330s] [ 99%] Built target nourish_robot_arm_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.334s] [100%] Built target nourish_robot_arm_msgs__rosidl_typesupport_c__pyext
+[0.347s] Invoked command in '/home/nikhil/nourish_ws/build/nourish_robot_arm_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_robot_arm_msgs -- -j12 -l12

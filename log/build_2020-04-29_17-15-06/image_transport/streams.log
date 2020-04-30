@@ -1,0 +1,71 @@
+[0.074s] Invoking command in '/home/nikhil/nourish_ws/build/image_transport': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/image_transport -- -j12 -l12
+[0.181s] [  6%] Built target gtest
+[0.183s] [ 13%] Built target gtest_main
+[0.200s] [ 40%] Built target image_transport
+[0.307s] [ 46%] Built target republish
+[0.308s] [ 53%] Built target list_transports
+[0.309s] [ 60%] Built target image_transport_plugins
+[0.327s] [ 66%] Built target image_transport-remapping
+[0.332s] [ 73%] Built target image_transport-message_passing
+[0.333s] [ 80%] Built target image_transport-camera_common
+[0.343s] [ 86%] Built target image_transport-single_subscriber_publisher
+[0.355s] [ 93%] Built target image_transport-publisher
+[0.357s] [100%] Built target image_transport-subscriber
+[0.401s] Invoked command in '/home/nikhil/nourish_ws/build/image_transport' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/image_transport -- -j12 -l12
+[0.600s] Invoking command in '/home/nikhil/nourish_ws/build/image_transport': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/image_transport --target install -- -j12 -l12
+[0.713s] [ 13%] Built target gtest_main
+[0.713s] [ 13%] Built target gtest
+[0.744s] [ 40%] Built target image_transport
+[0.801s] [ 46%] Built target list_transports
+[0.801s] [ 53%] Built target image_transport_plugins
+[0.805s] [ 66%] Built target image_transport-camera_common
+[0.806s] [ 66%] Built target image_transport-publisher
+[0.809s] [ 73%] Built target republish
+[0.810s] [ 80%] Built target image_transport-remapping
+[0.815s] [ 86%] Built target image_transport-single_subscriber_publisher
+[0.816s] [ 93%] Built target image_transport-subscriber
+[0.827s] [100%] Built target image_transport-message_passing
+[0.850s] [36mInstall the project...[0m
+[0.860s] -- Install configuration: ""
+[0.861s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/share/image_transport/default_plugins.xml
+[0.861s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/lib/libimage_transport.so
+[0.861s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/lib/libimage_transport_plugins.so
+[0.861s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/lib/image_transport/list_transports
+[0.862s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/lib/image_transport/republish
+[0.862s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include
+[0.863s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport
+[0.863s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/raw_subscriber.h
+[0.863s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/transport_hints.h
+[0.863s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/subscriber.h
+[0.863s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/camera_subscriber.h
+[0.864s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/visibility_control.hpp
+[0.864s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/subscriber_filter.h
+[0.864s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/simple_publisher_plugin.h
+[0.864s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/raw_publisher.h
+[0.864s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/image_transport.h
+[0.864s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/camera_common.h
+[0.864s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/exception.h
+[0.864s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/loader_fwds.h
+[0.864s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/publisher.h
+[0.864s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/camera_publisher.h
+[0.865s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/subscriber_plugin.h
+[0.865s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/simple_subscriber_plugin.h
+[0.865s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/single_subscriber_publisher.h
+[0.865s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/include/image_transport/publisher_plugin.h
+[0.865s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/share/image_transport/environment/library_path.sh
+[0.865s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/share/ament_index/resource_index/package_run_dependencies/image_transport
+[0.865s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/share/ament_index/resource_index/parent_prefix_path/image_transport
+[0.865s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/share/image_transport/environment/ament_prefix_path.sh
+[0.865s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/share/image_transport/environment/path.sh
+[0.865s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/share/image_transport/local_setup.bash
+[0.865s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/share/image_transport/local_setup.sh
+[0.865s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/share/image_transport/local_setup.zsh
+[0.866s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/share/ament_index/resource_index/packages/image_transport
+[0.866s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/share/ament_index/resource_index/image_transport__pluginlib__plugin/image_transport
+[0.866s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/share/image_transport/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.866s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/share/image_transport/cmake/ament_cmake_export_libraries-extras.cmake
+[0.866s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/share/image_transport/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.866s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/share/image_transport/cmake/image_transportConfig.cmake
+[0.866s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/share/image_transport/cmake/image_transportConfig-version.cmake
+[0.866s] -- Up-to-date: /home/nikhil/nourish_ws/install/image_transport/share/image_transport/package.xml
+[1.115s] Invoked command in '/home/nikhil/nourish_ws/build/image_transport' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/image_transport --target install -- -j12 -l12

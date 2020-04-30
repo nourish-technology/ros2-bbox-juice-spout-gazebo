@@ -1,0 +1,4 @@
+[0.076s] Invoking command in '/home/nikhil/nourish_ws/build/gazebo_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/gazebo_msgs -- -j12 -l12
+[1.096s] Invoked command in '/home/nikhil/nourish_ws/build/gazebo_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/gazebo_msgs -- -j12 -l12
+[2.129s] Invoking command in '/home/nikhil/nourish_ws/build/gazebo_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/gazebo_msgs --target install -- -j12 -l12
+[2.587s] Invoked command in '/home/nikhil/nourish_ws/build/gazebo_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/gazebo_msgs --target install -- -j12 -l12

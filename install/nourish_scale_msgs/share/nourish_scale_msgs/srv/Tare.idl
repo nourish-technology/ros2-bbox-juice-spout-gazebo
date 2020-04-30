@@ -1,0 +1,16 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from nourish_scale_msgs/srv/Tare.srv
+// generated code does not contain a copyright notice
+
+#include "nourish_scale_msgs/msg/Response.idl"
+
+module nourish_scale_msgs {
+  module srv {
+    struct Tare_Request {
+      uint8 structure_needs_at_least_one_member;
+    };
+    struct Tare_Response {
+      nourish_scale_msgs::msg::Response response;
+    };
+  };
+};

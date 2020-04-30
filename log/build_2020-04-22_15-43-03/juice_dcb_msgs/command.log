@@ -1,0 +1,6 @@
+[0.030s] Invoking command in '/home/nikhil/nourish_ws/build/juice_dcb_msgs': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros2-nourish-common-messages/juice_dcb_msgs -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/juice_dcb_msgs
+[2.153s] Invoked command in '/home/nikhil/nourish_ws/build/juice_dcb_msgs' returned '0': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros2-nourish-common-messages/juice_dcb_msgs -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/juice_dcb_msgs
+[2.154s] Invoking command in '/home/nikhil/nourish_ws/build/juice_dcb_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_dcb_msgs -- -j12 -l12
+[7.834s] Invoked command in '/home/nikhil/nourish_ws/build/juice_dcb_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_dcb_msgs -- -j12 -l12
+[7.922s] Invoking command in '/home/nikhil/nourish_ws/build/juice_dcb_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_dcb_msgs --target install -- -j12 -l12
+[8.685s] Invoked command in '/home/nikhil/nourish_ws/build/juice_dcb_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_dcb_msgs --target install -- -j12 -l12

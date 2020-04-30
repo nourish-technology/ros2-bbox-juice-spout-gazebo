@@ -1,0 +1,21 @@
+[0.773s] running egg_info
+[0.774s] writing /home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info/PKG-INFO
+[0.775s] writing dependency_links to /home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info/dependency_links.txt
+[0.777s] writing entry points to /home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info/entry_points.txt
+[0.777s] writing requirements to /home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info/requires.txt
+[0.777s] writing top-level names to /home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info/top_level.txt
+[0.814s] reading manifest file '/home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info/SOURCES.txt'
+[0.815s] writing manifest file '/home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info/SOURCES.txt'
+[0.816s] running build
+[0.816s] running build_py
+[0.816s] running install
+[0.817s] running install_lib
+[0.820s] running install_data
+[0.820s] running install_egg_info
+[0.822s] removing '/home/nikhil/nourish_ws/install/opencv_tests/lib/python3.6/site-packages/opencv_tests-2.1.4-py3.6.egg-info' (and everything under it)
+[0.822s] Copying /home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info to /home/nikhil/nourish_ws/install/opencv_tests/lib/python3.6/site-packages/opencv_tests-2.1.4-py3.6.egg-info
+[0.836s] running install_scripts
+[0.875s] Installing broadcast script to /home/nikhil/nourish_ws/install/opencv_tests/lib/opencv_tests
+[0.875s] Installing rosfacedetect script to /home/nikhil/nourish_ws/install/opencv_tests/lib/opencv_tests
+[0.875s] Installing source script to /home/nikhil/nourish_ws/install/opencv_tests/lib/opencv_tests
+[0.876s] writing list of installed files to '/home/nikhil/nourish_ws/build/opencv_tests/install.log'

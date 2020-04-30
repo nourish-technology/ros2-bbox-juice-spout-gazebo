@@ -1,0 +1,16 @@
+[0.077s] [100%] Built target juice_spout
+[0.196s] [100%] Built target juice_spout
+[0.214s] [36mInstall the project...[0m
+[0.230s] -- Install configuration: ""
+[0.231s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout/lib/juice_spout/juice_spout
+[0.233s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout/share/ament_index/resource_index/package_run_dependencies/juice_spout
+[0.233s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout/share/ament_index/resource_index/parent_prefix_path/juice_spout
+[0.235s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout/share/juice_spout/environment/ament_prefix_path.sh
+[0.235s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout/share/juice_spout/environment/path.sh
+[0.235s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout/share/juice_spout/local_setup.bash
+[0.235s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout/share/juice_spout/local_setup.sh
+[0.236s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout/share/juice_spout/local_setup.zsh
+[0.236s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout/share/ament_index/resource_index/packages/juice_spout
+[0.236s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout/share/juice_spout/cmake/juice_spoutConfig.cmake
+[0.236s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout/share/juice_spout/cmake/juice_spoutConfig-version.cmake
+[0.236s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_spout/share/juice_spout/package.xml

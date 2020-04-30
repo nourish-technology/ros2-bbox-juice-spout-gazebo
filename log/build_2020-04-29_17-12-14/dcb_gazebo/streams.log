@@ -1,0 +1,96 @@
+[0.041s] Invoking command in '/home/nikhil/nourish_ws/build/dcb_gazebo': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/gazebo_ros_pkgs:/home/nikhil/nourish_ws/install/gazebo_plugins:/home/nikhil/nourish_ws/install/gazebo_ros:/home/nikhil/nourish_ws/install/camera_info_manager:/home/nikhil/nourish_ws/install/image_transport:/home/nikhil/nourish_ws/install/gazebo_msgs:/home/nikhil/nourish_ws/install/gazebo_dev:/home/nikhil/nourish_ws/install/cv_bridge:/home/nikhil/nourish_ws/install/camera_calibration_parsers:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/gazebo_ros_pkgs:/home/nikhil/nourish_ws/install/gazebo_plugins:/home/nikhil/nourish_ws/install/juice_spout:/home/nikhil/nourish_ws/install/gazebo_ros:/home/nikhil/nourish_ws/install/camera_info_manager:/home/nikhil/nourish_ws/install/juice_spout_msgs:/home/nikhil/nourish_ws/install/juice_dcb_msgs:/home/nikhil/nourish_ws/install/image_transport:/home/nikhil/nourish_ws/install/gazebo_msgs:/home/nikhil/nourish_ws/install/gazebo_dev:/home/nikhil/nourish_ws/install/cv_bridge:/home/nikhil/nourish_ws/install/camera_calibration_parsers:/home/nikhil/nourish_ws/install/nourish_scale:/home/nikhil/nourish_ws/install/juice_dcb:/home/nikhil/nourish_ws/install/nourish_dcb:/home/nikhil/nourish_ws/install/serial:/home/nikhil/nourish_ws/install/nourish_scale_msgs:/home/nikhil/nourish_ws/install/nourish_robot_arm_msgs:/home/nikhil/nourish_ws/install/dcb_gazebo:/home/nikhil/ros2_dashing/ros2-linux LD_LIBRARY_PATH=/usr/lib/x86_64-linux-gnu/gazebo-9/plugins:/home/nikhil/nourish_ws/install/gazebo_plugins/lib:/home/nikhil/nourish_ws/install/gazebo_ros/lib:/home/nikhil/nourish_ws/install/camera_info_manager/lib:/home/nikhil/nourish_ws/install/juice_spout_msgs/lib:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib:/home/nikhil/nourish_ws/install/image_transport/lib:/home/nikhil/nourish_ws/install/gazebo_msgs/lib:/home/nikhil/nourish_ws/install/cv_bridge/lib:/home/nikhil/nourish_ws/install/camera_calibration_parsers/lib:/home/nikhil/nourish_ws/install/nourish_dcb/lib:/home/nikhil/nourish_ws/install/serial/lib:/home/nikhil/nourish_ws/install/nourish_scale_msgs/lib:/home/nikhil/nourish_ws/install/nourish_robot_arm_msgs/lib:/home/nikhil/ros2_dashing/ros2-linux/opt/yaml_cpp_vendor/lib:/home/nikhil/ros2_dashing/ros2-linux/opt/rviz_ogre_vendor/lib:/usr/lib:/home/nikhil/ros2_dashing/ros2-linux/lib:/usr/local/lib PYTHONPATH=/home/nikhil/nourish_ws/install/gazebo_ros/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/gazebo_msgs/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/cv_bridge/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/nourish_scale_msgs/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/nourish_robot_arm_msgs/lib/python3.6/site-packages:/home/nikhil/ros2_dashing/ros2-linux/lib/python3.6/site-packages /usr/bin/cmake --build /home/nikhil/nourish_ws/build/dcb_gazebo -- -j12 -l12
+[0.073s] -- Found ament_cmake: 0.7.4 (/home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake/cmake)
+[0.105s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.290s] -- Found ament_lint_auto: 0.7.11 (/home/nikhil/ros2_dashing/ros2-linux/share/ament_lint_auto/cmake)
+[0.361s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[0.373s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.373s] -- Configured cppcheck include dirs: 
+[0.384s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.386s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.389s] -- Added test 'lint_cmake' to check CMake code style
+[0.391s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.403s] -- Added test 'uncrustify' to check C / C++ code style
+[0.405s] -- Added test 'xmllint' to check XML markup files
+[0.406s] -- Found camera_info_manager: 2.1.1 (/home/nikhil/nourish_ws/install/camera_info_manager/share/camera_info_manager/cmake)
+[0.407s] -- Found gazebo_dev: 3.3.4 (/home/nikhil/nourish_ws/install/gazebo_dev/share/gazebo_dev/cmake)
+[0.442s] -- Boost version: 1.65.1
+[0.443s] -- Found the following Boost libraries:
+[0.443s] --   thread
+[0.443s] --   system
+[0.443s] --   filesystem
+[0.443s] --   program_options
+[0.443s] --   regex
+[0.443s] --   iostreams
+[0.443s] --   date_time
+[0.443s] --   chrono
+[0.443s] --   atomic
+[0.449s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found version "3.0.0") 
+[0.466s] -- Boost version: 1.65.1
+[0.467s] -- Looking for OGRE...
+[0.472s] -- Found Ogre Ghadamon (1.9.0)
+[0.473s] -- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+[0.516s] -- Looking for OGRE_Paging...
+[0.516s] -- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+[0.516s] -- Looking for OGRE_Terrain...
+[0.517s] -- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+[0.517s] -- Looking for OGRE_Property...
+[0.517s] -- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+[0.517s] -- Looking for OGRE_RTShaderSystem...
+[0.517s] -- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+[0.517s] -- Looking for OGRE_Volume...
+[0.517s] -- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+[0.517s] -- Looking for OGRE_Overlay...
+[0.517s] -- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+[0.630s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread;-lpthread (found suitable version "3.0.0", minimum required is "2.3.0") 
+[0.637s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[0.641s] -- Checking for module 'libzmq >= 4'
+[0.652s] --   Found libzmq , version 4.3.3
+[0.685s] -- Checking for module 'uuid'
+[0.696s] --   Found uuid, version 2.31.1
+[0.734s] -- Checking for module 'tinyxml2'
+[0.748s] --   Found tinyxml2, version 6.0.0
+[0.800s] -- Looking for dlfcn.h - found
+[0.801s] -- Looking for libdl - found
+[0.805s] -- FreeImage.pc not found, we will search for FreeImage_INCLUDE_DIRS and FreeImage_LIBRARIES
+[0.957s] -- Checking for module 'gts'
+[0.976s] --   Found gts, version 0.7.6
+[1.061s] -- Checking for module 'libswscale'
+[1.093s] --   Found libswscale, version 4.8.100
+[1.194s] -- Checking for module 'libavdevice >= 56.4.100'
+[1.227s] --   Found libavdevice , version 57.10.100
+[1.349s] -- Checking for module 'libavformat'
+[1.382s] --   Found libavformat, version 57.83.100
+[1.492s] -- Checking for module 'libavcodec'
+[1.525s] --   Found libavcodec, version 57.107.100
+[1.628s] -- Checking for module 'libavutil'
+[1.658s] --   Found libavutil, version 55.78.100
+[1.763s] -- Checking for module 'jsoncpp'
+[1.795s] --   Found jsoncpp, version 1.7.4
+[1.897s] -- Checking for module 'libzip'
+[1.929s] --   Found libzip, version 1.1.2
+[2.019s] -- Gazebo version: 9.13
+[2.020s] -- Found gazebo_msgs: 3.3.4 (/home/nikhil/nourish_ws/install/gazebo_msgs/share/gazebo_msgs/cmake)
+[2.043s] -- Found rosidl_adapter: 0.7.9 (/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_adapter/cmake)
+[2.106s] -- Found gazebo_ros: 3.3.4 (/home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros/cmake)
+[2.116s] -- Found rmw_implementation_cmake: 0.7.2 (/home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake)
+[2.117s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.149s] -- Found image_transport: 2.1.1 (/home/nikhil/nourish_ws/install/image_transport/share/image_transport/cmake)
+[2.174s] -- Found tinyxml2_vendor:  (/home/nikhil/ros2_dashing/ros2-linux/share/tinyxml2_vendor/cmake)
+[2.184s] -- Found poco_vendor:  (/home/nikhil/ros2_dashing/ros2-linux/share/poco_vendor/cmake)
+[2.190s] -- Found cv_bridge: 2.1.4 (/home/nikhil/nourish_ws/install/cv_bridge/share/cv_bridge/cmake)
+[2.200s] -- Found nav_msgs: 0.7.0 (/home/nikhil/ros2_dashing/ros2-linux/share/nav_msgs/cmake)
+[2.209s] -- Found std_srvs: 0.7.0 (/home/nikhil/ros2_dashing/ros2-linux/share/std_srvs/cmake)
+[2.212s] -- Found tf2: 0.11.6 (/home/nikhil/ros2_dashing/ros2-linux/share/tf2/cmake)
+[2.214s] -- Found tf2_geometry_msgs: 0.11.6 (/home/nikhil/ros2_dashing/ros2-linux/share/tf2_geometry_msgs/cmake)
+[2.271s] CMake Error at /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_target_dependencies/cmake/ament_target_dependencies.cmake:35 (message):
+[2.271s]   ament_target_dependencies() the first argument must be a valid target name
+[2.271s] Call Stack (most recent call first):
+[2.271s]   CMakeLists.txt:77 (ament_target_dependencies)
+[2.271s] 
+[2.272s] 
+[2.273s] -- Configuring incomplete, errors occurred!
+[2.273s] See also "/home/nikhil/nourish_ws/build/dcb_gazebo/CMakeFiles/CMakeOutput.log".
+[2.273s] See also "/home/nikhil/nourish_ws/build/dcb_gazebo/CMakeFiles/CMakeError.log".
+[2.277s] Makefile:208: recipe for target 'cmake_check_build_system' failed
+[2.277s] make: *** [cmake_check_build_system] Error 1
+[2.279s] Invoked command in '/home/nikhil/nourish_ws/build/dcb_gazebo' returned '2': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/gazebo_ros_pkgs:/home/nikhil/nourish_ws/install/gazebo_plugins:/home/nikhil/nourish_ws/install/gazebo_ros:/home/nikhil/nourish_ws/install/camera_info_manager:/home/nikhil/nourish_ws/install/image_transport:/home/nikhil/nourish_ws/install/gazebo_msgs:/home/nikhil/nourish_ws/install/gazebo_dev:/home/nikhil/nourish_ws/install/cv_bridge:/home/nikhil/nourish_ws/install/camera_calibration_parsers:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/gazebo_ros_pkgs:/home/nikhil/nourish_ws/install/gazebo_plugins:/home/nikhil/nourish_ws/install/juice_spout:/home/nikhil/nourish_ws/install/gazebo_ros:/home/nikhil/nourish_ws/install/camera_info_manager:/home/nikhil/nourish_ws/install/juice_spout_msgs:/home/nikhil/nourish_ws/install/juice_dcb_msgs:/home/nikhil/nourish_ws/install/image_transport:/home/nikhil/nourish_ws/install/gazebo_msgs:/home/nikhil/nourish_ws/install/gazebo_dev:/home/nikhil/nourish_ws/install/cv_bridge:/home/nikhil/nourish_ws/install/camera_calibration_parsers:/home/nikhil/nourish_ws/install/nourish_scale:/home/nikhil/nourish_ws/install/juice_dcb:/home/nikhil/nourish_ws/install/nourish_dcb:/home/nikhil/nourish_ws/install/serial:/home/nikhil/nourish_ws/install/nourish_scale_msgs:/home/nikhil/nourish_ws/install/nourish_robot_arm_msgs:/home/nikhil/nourish_ws/install/dcb_gazebo:/home/nikhil/ros2_dashing/ros2-linux LD_LIBRARY_PATH=/usr/lib/x86_64-linux-gnu/gazebo-9/plugins:/home/nikhil/nourish_ws/install/gazebo_plugins/lib:/home/nikhil/nourish_ws/install/gazebo_ros/lib:/home/nikhil/nourish_ws/install/camera_info_manager/lib:/home/nikhil/nourish_ws/install/juice_spout_msgs/lib:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib:/home/nikhil/nourish_ws/install/image_transport/lib:/home/nikhil/nourish_ws/install/gazebo_msgs/lib:/home/nikhil/nourish_ws/install/cv_bridge/lib:/home/nikhil/nourish_ws/install/camera_calibration_parsers/lib:/home/nikhil/nourish_ws/install/nourish_dcb/lib:/home/nikhil/nourish_ws/install/serial/lib:/home/nikhil/nourish_ws/install/nourish_scale_msgs/lib:/home/nikhil/nourish_ws/install/nourish_robot_arm_msgs/lib:/home/nikhil/ros2_dashing/ros2-linux/opt/yaml_cpp_vendor/lib:/home/nikhil/ros2_dashing/ros2-linux/opt/rviz_ogre_vendor/lib:/usr/lib:/home/nikhil/ros2_dashing/ros2-linux/lib:/usr/local/lib PYTHONPATH=/home/nikhil/nourish_ws/install/gazebo_ros/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/juice_spout_msgs/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/gazebo_msgs/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/cv_bridge/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/nourish_scale_msgs/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/nourish_robot_arm_msgs/lib/python3.6/site-packages:/home/nikhil/ros2_dashing/ros2-linux/lib/python3.6/site-packages /usr/bin/cmake --build /home/nikhil/nourish_ws/build/dcb_gazebo -- -j12 -l12

@@ -1,0 +1,9 @@
+{
+  "package_name": "juice_spout_msgs",
+  "non_idl_tuples": [
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/juice_spout_msgs:srv/RunRecipe.srv",
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/juice_spout_msgs:srv/SetFill.srv",
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/juice_spout_msgs:action/RunActionRecipe.action",
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/juice_spout_msgs:msg/SpoutState.msg"
+  ]
+}

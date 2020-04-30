@@ -1,0 +1,8 @@
+[3.868s] [01m[K/home/nikhil/nourish_ws/src/ros2-nourish-scale/nourish_scale/src/scale_node.cpp:[m[K In constructor ‘[01m[Knourish::scale::ScaleNode::ScaleNode(const string&)[m[K’:
+[3.868s] [01m[K/home/nikhil/nourish_ws/src/ros2-nourish-scale/nourish_scale/src/scale_node.cpp:26:41:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kserial_port[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[3.868s]  ScaleNode::ScaleNode(const std::string &[01;35m[Kserial_port[m[K):
+[3.868s]                                          [01;35m[K^~~~~~~~~~~[m[K
+[6.565s] [01m[K/home/nikhil/nourish_ws/src/ros2-nourish-scale/nourish_scale/src/scale_node.cpp:[m[K In constructor ‘[01m[Knourish::scale::ScaleNode::ScaleNode(const string&)[m[K’:
+[6.565s] [01m[K/home/nikhil/nourish_ws/src/ros2-nourish-scale/nourish_scale/src/scale_node.cpp:26:41:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kserial_port[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[6.565s]  ScaleNode::ScaleNode(const std::string &[01;35m[Kserial_port[m[K):
+[6.565s]                                          [01;35m[K^~~~~~~~~~~[m[K

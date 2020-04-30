@@ -1,0 +1,114 @@
+[0.083s] Invoking command in '/home/nikhil/nourish_ws/build/cv_bridge': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros-perception/vision_opencv/cv_bridge -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/cv_bridge
+[0.161s] -- The C compiler identification is GNU 7.5.0
+[0.246s] -- The CXX compiler identification is GNU 7.5.0
+[0.252s] -- Check for working C compiler: /usr/bin/cc
+[0.392s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.392s] -- Detecting C compiler ABI info
+[0.493s] -- Detecting C compiler ABI info - done
+[0.501s] -- Detecting C compile features
+[0.826s] -- Detecting C compile features - done
+[0.830s] -- Check for working CXX compiler: /usr/bin/c++
+[0.971s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.972s] -- Detecting CXX compiler ABI info
+[1.112s] -- Detecting CXX compiler ABI info - done
+[1.119s] -- Detecting CXX compile features
+[1.654s] -- Detecting CXX compile features - done
+[1.657s] -- Found ament_cmake_ros: 0.7.0 (/home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_ros/cmake)
+[1.706s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[1.707s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.021s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.6m.so (found version "3.6.9") 
+[2.095s] -- Boost version: 1.65.1
+[2.096s] -- Found the following Boost libraries:
+[2.096s] --   python3
+[2.098s] -- Found sensor_msgs: 0.7.0 (/home/nikhil/ros2_dashing/ros2-linux/share/sensor_msgs/cmake)
+[2.115s] -- Found rosidl_adapter: 0.7.9 (/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_adapter/cmake)
+[2.194s] -- Found OpenCV: /usr (found suitable version "3.2.0", minimum required is "3") found components:  opencv_core opencv_imgproc opencv_imgcodecs 
+[2.237s] -- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY
+[2.323s] -- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY - Success
+[2.324s] -- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY
+[2.412s] -- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY - Success
+[2.413s] -- Performing Test COMPILER_HAS_DEPRECATED_ATTR
+[2.502s] -- Performing Test COMPILER_HAS_DEPRECATED_ATTR - Success
+[2.532s] -- Found PythonInterp: /usr/bin/python3 (found version "3.6.9") 
+[2.534s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.6m.so (found suitable version "3.6.9", minimum required is "3.6") 
+[2.789s] -- Found ament_lint_auto: 0.7.11 (/home/nikhil/ros2_dashing/ros2-linux/share/ament_lint_auto/cmake)
+[2.886s] -- Found gtest sources under '/home/nikhil/ros2_dashing/ros2-linux/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[2.888s] -- Looking for pthread.h
+[2.997s] -- Looking for pthread.h - found
+[2.998s] -- Looking for pthread_create
+[3.116s] -- Looking for pthread_create - not found
+[3.116s] -- Check if compiler accepts -pthread
+[3.331s] -- Check if compiler accepts -pthread - yes
+[3.333s] -- Found Threads: TRUE  
+[5.923s] -- Configuring done
+[5.979s] -- Generating done
+[5.982s] -- Build files have been written to: /home/nikhil/nourish_ws/build/cv_bridge
+[5.991s] Invoked command in '/home/nikhil/nourish_ws/build/cv_bridge' returned '0': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros-perception/vision_opencv/cv_bridge -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/cv_bridge
+[5.995s] Invoking command in '/home/nikhil/nourish_ws/build/cv_bridge': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/cv_bridge -- -j12 -l12
+[6.076s] [35m[1mScanning dependencies of target cv_bridge[0m
+[6.079s] [35m[1mScanning dependencies of target gtest[0m
+[6.098s] [35m[1mScanning dependencies of target gtest_main[0m
+[6.134s] [  6%] [32mBuilding CXX object src/CMakeFiles/cv_bridge.dir/rgb_colors.cpp.o[0m
+[6.138s] [ 12%] [32mBuilding CXX object src/CMakeFiles/cv_bridge.dir/cv_bridge.cpp.o[0m
+[6.142s] [ 18%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[6.145s] [ 25%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[7.372s] [ 31%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[7.543s] [ 31%] Built target gtest_main
+[10.405s] [ 37%] [32m[1mLinking CXX static library libgtest.a[0m
+[10.473s] [ 37%] Built target gtest
+[10.802s] [ 43%] [32m[1mLinking CXX shared library libcv_bridge.so[0m
+[11.145s] [ 43%] Built target cv_bridge
+[11.176s] [35m[1mScanning dependencies of target cv_bridge_boost[0m
+[11.223s] [35m[1mScanning dependencies of target cv_bridge-utest[0m
+[11.292s] [ 50%] [32mBuilding CXX object src/CMakeFiles/cv_bridge_boost.dir/module_opencv3.cpp.o[0m
+[11.383s] [ 62%] [32mBuilding CXX object test/CMakeFiles/cv_bridge-utest.dir/utest2.cpp.o[0m
+[11.385s] [ 68%] [32mBuilding CXX object test/CMakeFiles/cv_bridge-utest.dir/test_rgb_colors.cpp.o[0m
+[11.385s] [ 68%] [32mBuilding CXX object test/CMakeFiles/cv_bridge-utest.dir/test_compression.cpp.o[0m
+[11.391s] [ 75%] [32mBuilding CXX object test/CMakeFiles/cv_bridge-utest.dir/test_endian.cpp.o[0m
+[11.397s] [ 81%] [32mBuilding CXX object src/CMakeFiles/cv_bridge_boost.dir/module.cpp.o[0m
+[11.399s] [ 87%] [32mBuilding CXX object test/CMakeFiles/cv_bridge-utest.dir/utest.cpp.o[0m
+[15.208s] [ 93%] [32m[1mLinking CXX executable cv_bridge-utest[0m
+[15.867s] [ 93%] Built target cv_bridge-utest
+[17.083s] [100%] [32m[1mLinking CXX shared library boost/cv_bridge_boost.so[0m
+[17.253s] [100%] Built target cv_bridge_boost
+[17.272s] Invoked command in '/home/nikhil/nourish_ws/build/cv_bridge' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/cv_bridge -- -j12 -l12
+[17.308s] Invoking command in '/home/nikhil/nourish_ws/build/cv_bridge': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/cv_bridge --target install -- -j12 -l12
+[17.379s] [ 12%] Built target gtest
+[17.380s] [ 25%] Built target gtest_main
+[17.383s] [ 43%] Built target cv_bridge
+[17.419s] [ 81%] Built target cv_bridge-utest
+[17.424s] [100%] Built target cv_bridge_boost
+[17.445s] [36mInstall the project...[0m
+[17.455s] -- Install configuration: ""
+[17.455s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/share/cv_bridge/environment/library_path.sh
+[17.455s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/include/cv_bridge
+[17.455s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/include/cv_bridge/rgb_colors.h
+[17.455s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/include/cv_bridge/cv_bridge.h
+[17.456s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/share/ament_index/resource_index/package_run_dependencies/cv_bridge
+[17.456s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/share/ament_index/resource_index/parent_prefix_path/cv_bridge
+[17.456s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/share/cv_bridge/environment/ament_prefix_path.sh
+[17.456s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/share/cv_bridge/environment/path.sh
+[17.456s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/share/cv_bridge/local_setup.bash
+[17.456s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/share/cv_bridge/local_setup.sh
+[17.457s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/share/cv_bridge/local_setup.zsh
+[17.457s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/share/ament_index/resource_index/packages/cv_bridge
+[17.457s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/share/cv_bridge/cmake/cv_bridge-extras.cmake
+[17.457s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/share/cv_bridge/cmake/ament_cmake_export_dependencies-extras.cmake
+[17.457s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/share/cv_bridge/cmake/ament_cmake_export_include_directories-extras.cmake
+[17.457s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/share/cv_bridge/cmake/ament_cmake_export_libraries-extras.cmake
+[17.458s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/share/cv_bridge/cmake/cv_bridgeConfig.cmake
+[17.458s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/share/cv_bridge/cmake/cv_bridgeConfig-version.cmake
+[17.458s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/share/cv_bridge/package.xml
+[17.458s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/share/cv_bridge/environment/pythonpath.sh
+[17.458s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/lib/python3.6/site-packages/cv_bridge
+[17.458s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/lib/python3.6/site-packages/cv_bridge/__init__.py
+[17.458s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/lib/python3.6/site-packages/cv_bridge/core.py
+[17.494s] Listing '/home/nikhil/nourish_ws/install/cv_bridge/lib/python3.6/site-packages/cv_bridge'...
+[17.495s] Compiling '/home/nikhil/nourish_ws/install/cv_bridge/lib/python3.6/site-packages/cv_bridge/__init__.py'...
+[17.495s] Compiling '/home/nikhil/nourish_ws/install/cv_bridge/lib/python3.6/site-packages/cv_bridge/core.py'...
+[17.500s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/lib/libcv_bridge.so
+[17.502s] -- Set runtime path of "/home/nikhil/nourish_ws/install/cv_bridge/lib/libcv_bridge.so" to ""
+[17.503s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/include/cv_bridge/cv_bridge_export.h
+[17.503s] -- Installing: /home/nikhil/nourish_ws/install/cv_bridge/lib/python3.6/site-packages/cv_bridge/boost/cv_bridge_boost.so
+[17.504s] -- Set runtime path of "/home/nikhil/nourish_ws/install/cv_bridge/lib/python3.6/site-packages/cv_bridge/boost/cv_bridge_boost.so" to ""
+[17.513s] Invoked command in '/home/nikhil/nourish_ws/build/cv_bridge' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/cv_bridge --target install -- -j12 -l12

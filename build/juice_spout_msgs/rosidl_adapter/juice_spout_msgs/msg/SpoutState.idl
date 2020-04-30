@@ -1,0 +1,23 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from juice_spout_msgs/msg/SpoutState.msg
+// generated code does not contain a copyright notice
+
+
+module juice_spout_msgs {
+  module msg {
+    module SpoutState_Constants {
+      const uint8 FILL_LEVEL_DONT_USE = 0;
+      const uint8 FILL_LEVEL_EMPTY = 1;
+      const uint8 FILL_LEVEL_LOW = 2;
+      const uint8 FILL_LEVEL_NOMINAL = 3;
+      const uint8 FILL_LEVEL_UNKNOWN = 4;
+    };
+    struct SpoutState {
+      boolean is_healthy;
+
+      boolean is_busy;
+
+      uint8 fill_level;
+    };
+  };
+};

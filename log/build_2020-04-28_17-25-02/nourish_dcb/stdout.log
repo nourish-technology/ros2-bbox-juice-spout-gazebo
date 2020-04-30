@@ -1,0 +1,5 @@
+[0.079s] [35m[1mScanning dependencies of target nourish_dcb[0m
+[0.093s] [ 50%] [32mBuilding CXX object CMakeFiles/nourish_dcb.dir/src/coms.cpp.o[0m
+[0.385s] CMakeFiles/nourish_dcb.dir/build.make:62: recipe for target 'CMakeFiles/nourish_dcb.dir/src/coms.cpp.o' failed
+[0.385s] CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/nourish_dcb.dir/all' failed
+[0.386s] Makefile:140: recipe for target 'all' failed

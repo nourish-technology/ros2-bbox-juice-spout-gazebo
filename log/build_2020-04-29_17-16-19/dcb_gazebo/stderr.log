@@ -1,0 +1,7 @@
+[2.080s] CMake Error at /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_export_include_directories/cmake/ament_export_include_directories.cmake:30 (message):
+[2.080s]   ament_export_include_directories() must be called before ament_package()
+[2.080s] Call Stack (most recent call first):
+[2.080s]   CMakeLists.txt:77 (ament_export_include_directories)
+[2.081s] 
+[2.081s] 
+[2.086s] make: *** [cmake_check_build_system] Error 1

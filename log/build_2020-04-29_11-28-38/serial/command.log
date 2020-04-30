@@ -1,0 +1,4 @@
+[0.054s] Invoking command in '/home/nikhil/nourish_ws/build/serial': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/serial -- -j12 -l12
+[0.132s] Invoked command in '/home/nikhil/nourish_ws/build/serial' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/serial -- -j12 -l12
+[0.228s] Invoking command in '/home/nikhil/nourish_ws/build/serial': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/serial --target install -- -j12 -l12
+[0.321s] Invoked command in '/home/nikhil/nourish_ws/build/serial' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/serial --target install -- -j12 -l12

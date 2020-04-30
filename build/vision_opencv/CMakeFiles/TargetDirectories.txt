@@ -1,0 +1,8 @@
+/home/nikhil/nourish_ws/build/vision_opencv/CMakeFiles/install/strip.dir
+/home/nikhil/nourish_ws/build/vision_opencv/CMakeFiles/install/local.dir
+/home/nikhil/nourish_ws/build/vision_opencv/CMakeFiles/test.dir
+/home/nikhil/nourish_ws/build/vision_opencv/CMakeFiles/list_install_components.dir
+/home/nikhil/nourish_ws/build/vision_opencv/CMakeFiles/uninstall.dir
+/home/nikhil/nourish_ws/build/vision_opencv/CMakeFiles/edit_cache.dir
+/home/nikhil/nourish_ws/build/vision_opencv/CMakeFiles/rebuild_cache.dir
+/home/nikhil/nourish_ws/build/vision_opencv/CMakeFiles/install.dir

@@ -1,0 +1,27 @@
+[0.013s] Invoking command in '/home/nikhil/nourish_ws/build/nourish_dcb': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/serial:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/serial:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/serial/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_dcb -- -j12 -l12
+[0.087s] [100%] Built target nourish_dcb
+[0.099s] Invoked command in '/home/nikhil/nourish_ws/build/nourish_dcb' returned '0': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/serial:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/serial:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/serial/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_dcb -- -j12 -l12
+[0.124s] Invoking command in '/home/nikhil/nourish_ws/build/nourish_dcb': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/serial:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/serial:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/serial/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_dcb --target install -- -j12 -l12
+[0.181s] [100%] Built target nourish_dcb
+[0.210s] [36mInstall the project...[0m
+[0.220s] -- Install configuration: ""
+[0.221s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/share/nourish_dcb/environment/library_path.sh
+[0.221s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/include
+[0.221s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/include/nourish_dcb
+[0.221s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/include/nourish_dcb/coms.hpp
+[0.221s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/lib/libnourish_dcb.a
+[0.221s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/share/ament_index/resource_index/package_run_dependencies/nourish_dcb
+[0.221s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/share/ament_index/resource_index/parent_prefix_path/nourish_dcb
+[0.221s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/share/nourish_dcb/environment/ament_prefix_path.sh
+[0.222s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/share/nourish_dcb/environment/path.sh
+[0.222s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/share/nourish_dcb/local_setup.bash
+[0.222s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/share/nourish_dcb/local_setup.sh
+[0.222s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/share/nourish_dcb/local_setup.zsh
+[0.222s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/share/ament_index/resource_index/packages/nourish_dcb
+[0.222s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/share/nourish_dcb/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.222s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/share/nourish_dcb/cmake/ament_cmake_export_libraries-extras.cmake
+[0.222s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/share/nourish_dcb/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.222s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/share/nourish_dcb/cmake/nourish_dcbConfig.cmake
+[0.222s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/share/nourish_dcb/cmake/nourish_dcbConfig-version.cmake
+[0.222s] -- Up-to-date: /home/nikhil/nourish_ws/install/nourish_dcb/share/nourish_dcb/package.xml
+[0.226s] Invoked command in '/home/nikhil/nourish_ws/build/nourish_dcb' returned '0': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/serial:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/serial:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/serial/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_dcb --target install -- -j12 -l12

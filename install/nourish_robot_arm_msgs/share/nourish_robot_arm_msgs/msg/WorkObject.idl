@@ -1,0 +1,44 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from nourish_robot_arm_msgs/msg/WorkObject.msg
+// generated code does not contain a copyright notice
+
+
+module nourish_robot_arm_msgs {
+  module msg {
+    struct WorkObject {
+      boolean robhold;
+
+      @verbatim (language="comment", text=
+        " User Frame")
+      float uframe_pos_x;
+
+      float uframe_pos_y;
+
+      float uframe_pos_z;
+
+      float uframe_orient_q1;
+
+      float uframe_orient_q2;
+
+      float uframe_orient_q3;
+
+      float uframe_orient_q4;
+
+      @verbatim (language="comment", text=
+        " Object Frame")
+      float oframe_pos_x;
+
+      float oframe_pos_y;
+
+      float oframe_pos_z;
+
+      float oframe_orient_q1;
+
+      float oframe_orient_q2;
+
+      float oframe_orient_q3;
+
+      float oframe_orient_q4;
+    };
+  };
+};

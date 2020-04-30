@@ -1,0 +1,48 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from nourish_robot_arm_msgs/action/RegisterPoint.action
+// generated code does not contain a copyright notice
+
+#include "nourish_robot_arm_msgs/msg/Pose.idl"
+#include "nourish_robot_arm_msgs/msg/Speed.idl"
+#include "nourish_robot_arm_msgs/msg/Tool.idl"
+
+module nourish_robot_arm_msgs {
+  module action {
+    struct RegisterPoint_Goal {
+      nourish_robot_arm_msgs::msg::Tool sensor_tool;
+
+      boolean ignore_sensor;
+
+      nourish_robot_arm_msgs::msg::Speed speed;
+
+      float x_offset;
+
+      float y_offset;
+
+      float z_offset;
+
+      float x_rot;
+
+      float y_rot;
+
+      float z_rot;
+    };
+    module RegisterPoint_Result_Constants {
+      const uint8 RESULT_UNKNOWN = 0;
+      const uint8 RESULT_SUCCESS = 1;
+      const uint8 RESULT_ERR_ROBOT_UNHEALTHY = 2;
+      const uint8 RESULT_ERR_SENSOR_ACTIVATED = 3;
+      const uint8 RESULT_ERR_SENSOR_NEVER_ENGAGED = 4;
+      const uint8 RESULT_ERR_UNKNOWN = 5;
+      const uint8 RESULT_ERR_BUSY = 6;
+    };
+    struct RegisterPoint_Result {
+      uint8 final_status;
+
+      nourish_robot_arm_msgs::msg::Pose pose;
+    };
+    struct RegisterPoint_Feedback {
+      uint8 structure_needs_at_least_one_member;
+    };
+  };
+};

@@ -1,0 +1,6 @@
+[0.027s] Invoking command in '/home/nikhil/nourish_ws/build/nourish_scale_msgs': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_scale_msgs -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/nourish_scale_msgs
+[2.190s] Invoked command in '/home/nikhil/nourish_ws/build/nourish_scale_msgs' returned '0': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_scale_msgs -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/nourish_scale_msgs
+[2.193s] Invoking command in '/home/nikhil/nourish_ws/build/nourish_scale_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_scale_msgs -- -j12 -l12
+[7.887s] Invoked command in '/home/nikhil/nourish_ws/build/nourish_scale_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_scale_msgs -- -j12 -l12
+[7.971s] Invoking command in '/home/nikhil/nourish_ws/build/nourish_scale_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_scale_msgs --target install -- -j12 -l12
+[8.935s] Invoked command in '/home/nikhil/nourish_ws/build/nourish_scale_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_scale_msgs --target install -- -j12 -l12

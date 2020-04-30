@@ -1,0 +1,71 @@
+[0.151s] Invoking command in '/home/nikhil/nourish_ws/build/juice_dcb': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/nourish_dcb:/home/nikhil/nourish_ws/install/serial:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/nourish_dcb:/home/nikhil/nourish_ws/install/serial:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/nourish_dcb/lib:/home/nikhil/nourish_ws/install/serial/lib:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake /home/nikhil/nourish_ws/src/ros2-bbox-juice-machine/juice_dcb -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/juice_dcb
+[0.329s] -- The C compiler identification is GNU 7.5.0
+[0.437s] -- The CXX compiler identification is GNU 7.5.0
+[0.443s] -- Check for working C compiler: /usr/bin/cc
+[0.641s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.642s] -- Detecting C compiler ABI info
+[0.871s] -- Detecting C compiler ABI info - done
+[0.879s] -- Detecting C compile features
+[1.776s] -- Detecting C compile features - done
+[1.779s] -- Check for working CXX compiler: /usr/bin/c++
+[1.960s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.961s] -- Detecting CXX compiler ABI info
+[2.101s] -- Detecting CXX compiler ABI info - done
+[2.109s] -- Detecting CXX compile features
+[2.532s] -- Detecting CXX compile features - done
+[2.534s] -- Found ament_cmake: 0.7.4 (/home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake/cmake)
+[2.560s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.561s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.813s] -- Found rclcpp: 0.7.12 (/home/nikhil/ros2_dashing/ros2-linux/share/rclcpp/cmake)
+[2.837s] -- Found rosidl_adapter: 0.7.9 (/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_adapter/cmake)
+[2.878s] -- Found rmw_implementation_cmake: 0.7.2 (/home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake)
+[2.880s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.880s] -- Looking for pthread.h
+[2.964s] -- Looking for pthread.h - found
+[2.964s] -- Looking for pthread_create
+[3.055s] -- Looking for pthread_create - not found
+[3.055s] -- Looking for pthread_create in pthreads
+[3.132s] -- Looking for pthread_create in pthreads - not found
+[3.132s] -- Looking for pthread_create in pthread
+[3.207s] -- Looking for pthread_create in pthread - found
+[3.208s] -- Found Threads: TRUE  
+[3.254s] -- Found std_msgs: 0.7.0 (/home/nikhil/ros2_dashing/ros2-linux/share/std_msgs/cmake)
+[3.261s] -- Found juice_dcb_msgs: 0.0.0 (/home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/cmake)
+[3.265s] -- Found nourish_dcb: 0.0.0 (/home/nikhil/nourish_ws/install/nourish_dcb/share/nourish_dcb/cmake)
+[3.285s] -- Found ament_lint_auto: 0.7.11 (/home/nikhil/ros2_dashing/ros2-linux/share/ament_lint_auto/cmake)
+[3.383s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[3.385s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.385s] -- Configured cppcheck include dirs: /home/nikhil/nourish_ws/src/ros2-bbox-juice-machine/juice_dcb/include
+[3.386s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[3.387s] -- Added test 'lint_cmake' to check CMake code style
+[3.389s] -- Added test 'uncrustify' to check C / C++ code style
+[3.390s] -- Added test 'xmllint' to check XML markup files
+[3.393s] -- Configuring done
+[3.414s] -- Generating done
+[3.416s] -- Build files have been written to: /home/nikhil/nourish_ws/build/juice_dcb
+[3.421s] Invoked command in '/home/nikhil/nourish_ws/build/juice_dcb' returned '0': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/nourish_dcb:/home/nikhil/nourish_ws/install/serial:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/nourish_dcb:/home/nikhil/nourish_ws/install/serial:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/nourish_dcb/lib:/home/nikhil/nourish_ws/install/serial/lib:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake /home/nikhil/nourish_ws/src/ros2-bbox-juice-machine/juice_dcb -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/juice_dcb
+[3.425s] Invoking command in '/home/nikhil/nourish_ws/build/juice_dcb': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/nourish_dcb:/home/nikhil/nourish_ws/install/serial:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/nourish_dcb:/home/nikhil/nourish_ws/install/serial:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/nourish_dcb/lib:/home/nikhil/nourish_ws/install/serial/lib:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_dcb -- -j12 -l12
+[3.478s] [35m[1mScanning dependencies of target juice_dcb[0m
+[3.515s] [ 66%] [32mBuilding CXX object CMakeFiles/juice_dcb.dir/src/juice_dcb_node.cpp.o[0m
+[3.515s] [ 66%] [32mBuilding CXX object CMakeFiles/juice_dcb.dir/src/juice_dcb.cpp.o[0m
+[6.711s] [100%] [32m[1mLinking CXX executable juice_dcb[0m
+[6.922s] [100%] Built target juice_dcb
+[6.941s] Invoked command in '/home/nikhil/nourish_ws/build/juice_dcb' returned '0': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/nourish_dcb:/home/nikhil/nourish_ws/install/serial:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/nourish_dcb:/home/nikhil/nourish_ws/install/serial:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/nourish_dcb/lib:/home/nikhil/nourish_ws/install/serial/lib:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_dcb -- -j12 -l12
+[6.974s] Invoking command in '/home/nikhil/nourish_ws/build/juice_dcb': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/nourish_dcb:/home/nikhil/nourish_ws/install/serial:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/nourish_dcb:/home/nikhil/nourish_ws/install/serial:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/nourish_dcb/lib:/home/nikhil/nourish_ws/install/serial/lib:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_dcb --target install -- -j12 -l12
+[7.048s] [100%] Built target juice_dcb
+[7.071s] [36mInstall the project...[0m
+[7.081s] -- Install configuration: ""
+[7.081s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb/lib/juice_dcb/juice_dcb
+[7.082s] -- Set runtime path of "/home/nikhil/nourish_ws/install/juice_dcb/lib/juice_dcb/juice_dcb" to ""
+[7.082s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb/share/ament_index/resource_index/package_run_dependencies/juice_dcb
+[7.082s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb/share/ament_index/resource_index/parent_prefix_path/juice_dcb
+[7.083s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb/share/juice_dcb/environment/ament_prefix_path.sh
+[7.083s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb/share/juice_dcb/environment/path.sh
+[7.083s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb/share/juice_dcb/local_setup.bash
+[7.083s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb/share/juice_dcb/local_setup.sh
+[7.083s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb/share/juice_dcb/local_setup.zsh
+[7.083s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb/share/ament_index/resource_index/packages/juice_dcb
+[7.083s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb/share/juice_dcb/cmake/juice_dcbConfig.cmake
+[7.083s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb/share/juice_dcb/cmake/juice_dcbConfig-version.cmake
+[7.084s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb/share/juice_dcb/package.xml
+[7.088s] Invoked command in '/home/nikhil/nourish_ws/build/juice_dcb' returned '0': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/nourish_dcb:/home/nikhil/nourish_ws/install/serial:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/nourish_dcb:/home/nikhil/nourish_ws/install/serial:/home/nikhil/nourish_ws/install/juice_dcb_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/nourish_dcb/lib:/home/nikhil/nourish_ws/install/serial/lib:/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_dcb --target install -- -j12 -l12

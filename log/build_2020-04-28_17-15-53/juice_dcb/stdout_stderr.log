@@ -1,0 +1,18 @@
+[0.090s] [ 33%] [32m[1mLinking CXX executable juice_dcb[0m
+[0.313s] [100%] Built target juice_dcb
+[0.418s] [100%] Built target juice_dcb
+[0.442s] [36mInstall the project...[0m
+[0.450s] -- Install configuration: ""
+[0.451s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb/lib/juice_dcb/juice_dcb
+[0.452s] -- Set runtime path of "/home/nikhil/nourish_ws/install/juice_dcb/lib/juice_dcb/juice_dcb" to ""
+[0.452s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb/share/ament_index/resource_index/package_run_dependencies/juice_dcb
+[0.452s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb/share/ament_index/resource_index/parent_prefix_path/juice_dcb
+[0.452s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb/share/juice_dcb/environment/ament_prefix_path.sh
+[0.452s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb/share/juice_dcb/environment/path.sh
+[0.453s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb/share/juice_dcb/local_setup.bash
+[0.453s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb/share/juice_dcb/local_setup.sh
+[0.453s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb/share/juice_dcb/local_setup.zsh
+[0.453s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb/share/ament_index/resource_index/packages/juice_dcb
+[0.453s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb/share/juice_dcb/cmake/juice_dcbConfig.cmake
+[0.453s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb/share/juice_dcb/cmake/juice_dcbConfig-version.cmake
+[0.453s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb/share/juice_dcb/package.xml

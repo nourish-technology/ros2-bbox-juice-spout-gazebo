@@ -1,0 +1,6 @@
+[0.030s] Invoking command in '/home/nikhil/nourish_ws/build/juice_spout_msgs': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros2-nourish-common-messages/juice_spout_msgs -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/juice_spout_msgs
+[2.469s] Invoked command in '/home/nikhil/nourish_ws/build/juice_spout_msgs' returned '0': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros2-nourish-common-messages/juice_spout_msgs -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/juice_spout_msgs
+[2.473s] Invoking command in '/home/nikhil/nourish_ws/build/juice_spout_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_spout_msgs -- -j12 -l12
+[12.285s] Invoked command in '/home/nikhil/nourish_ws/build/juice_spout_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_spout_msgs -- -j12 -l12
+[12.398s] Invoking command in '/home/nikhil/nourish_ws/build/juice_spout_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_spout_msgs --target install -- -j12 -l12
+[12.915s] Invoked command in '/home/nikhil/nourish_ws/build/juice_spout_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_spout_msgs --target install -- -j12 -l12

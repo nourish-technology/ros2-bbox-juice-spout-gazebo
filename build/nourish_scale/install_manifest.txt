@@ -1,0 +1,12 @@
+/home/nikhil/nourish_ws/install/nourish_scale/lib/nourish_scale/scale
+/home/nikhil/nourish_ws/install/nourish_scale/share/ament_index/resource_index/package_run_dependencies/nourish_scale
+/home/nikhil/nourish_ws/install/nourish_scale/share/ament_index/resource_index/parent_prefix_path/nourish_scale
+/home/nikhil/nourish_ws/install/nourish_scale/share/nourish_scale/environment/ament_prefix_path.sh
+/home/nikhil/nourish_ws/install/nourish_scale/share/nourish_scale/environment/path.sh
+/home/nikhil/nourish_ws/install/nourish_scale/share/nourish_scale/local_setup.bash
+/home/nikhil/nourish_ws/install/nourish_scale/share/nourish_scale/local_setup.sh
+/home/nikhil/nourish_ws/install/nourish_scale/share/nourish_scale/local_setup.zsh
+/home/nikhil/nourish_ws/install/nourish_scale/share/ament_index/resource_index/packages/nourish_scale
+/home/nikhil/nourish_ws/install/nourish_scale/share/nourish_scale/cmake/nourish_scaleConfig.cmake
+/home/nikhil/nourish_ws/install/nourish_scale/share/nourish_scale/cmake/nourish_scaleConfig-version.cmake
+/home/nikhil/nourish_ws/install/nourish_scale/share/nourish_scale/package.xml

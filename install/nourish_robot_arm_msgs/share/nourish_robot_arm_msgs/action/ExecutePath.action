@@ -1,0 +1,16 @@
+RobotMove[] robot_moves
+
+---
+
+uint8 RESULT_UNKNOWN  = 0
+uint8 RESULT_ERROR_UNHEALTHY = 1
+uint8 RESULT_ERROR_BUSY = 2
+uint8 RESULT_ERROR_MOVE_FAILED = 3
+uint8 RESULT_ERROR_UNKNOWN = 4
+uint8 RESULT_SUCCESS = 5
+
+uint8 final_status
+
+---
+
+#bool move_has_begun

@@ -1,0 +1,19 @@
+{
+  "package_name": "nourish_robot_arm_msgs",
+  "non_idl_tuples": [
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_robot_arm_msgs:srv/PollPosition.srv",
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_robot_arm_msgs:srv/PollStatus.srv",
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_robot_arm_msgs:action/ExecutePath.action",
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_robot_arm_msgs:action/RegisterPoint.action",
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_robot_arm_msgs:msg/Acceleration.msg",
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_robot_arm_msgs:msg/Joint.msg",
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_robot_arm_msgs:msg/Pose.msg",
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_robot_arm_msgs:msg/RobotArmState.msg",
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_robot_arm_msgs:msg/RobotMove.msg",
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_robot_arm_msgs:msg/Speed.msg",
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_robot_arm_msgs:msg/Tool.msg",
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_robot_arm_msgs:msg/WorkObject.msg",
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_robot_arm_msgs:msg/Zone.msg",
+    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_robot_arm_msgs:msg/PositionState.msg"
+  ]
+}

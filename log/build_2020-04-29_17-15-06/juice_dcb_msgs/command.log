@@ -1,0 +1,4 @@
+[0.073s] Invoking command in '/home/nikhil/nourish_ws/build/juice_dcb_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_dcb_msgs -- -j12 -l12
+[0.633s] Invoked command in '/home/nikhil/nourish_ws/build/juice_dcb_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_dcb_msgs -- -j12 -l12
+[1.119s] Invoking command in '/home/nikhil/nourish_ws/build/juice_dcb_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_dcb_msgs --target install -- -j12 -l12
+[1.670s] Invoked command in '/home/nikhil/nourish_ws/build/juice_dcb_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/juice_dcb_msgs --target install -- -j12 -l12

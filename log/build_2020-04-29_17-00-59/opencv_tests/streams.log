@@ -1,0 +1,45 @@
+[0.662s] Invoking command in '/home/nikhil/nourish_ws/src/ros-perception/vision_opencv/opencv_tests': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/cv_bridge:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/cv_bridge:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/cv_bridge/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nikhil/nourish_ws/install/opencv_tests/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/cv_bridge/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/nikhil/nourish_ws/build/opencv_tests build --build-base /home/nikhil/nourish_ws/build/opencv_tests/build install --prefix /home/nikhil/nourish_ws/install/opencv_tests --record /home/nikhil/nourish_ws/build/opencv_tests/install.log --single-version-externally-managed
+[1.144s] running egg_info
+[1.145s] creating /home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info
+[1.145s] writing /home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info/PKG-INFO
+[1.145s] writing dependency_links to /home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info/dependency_links.txt
+[1.145s] writing entry points to /home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info/entry_points.txt
+[1.146s] writing requirements to /home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info/requires.txt
+[1.146s] writing top-level names to /home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info/top_level.txt
+[1.148s] writing manifest file '/home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info/SOURCES.txt'
+[1.206s] reading manifest file '/home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info/SOURCES.txt'
+[1.208s] writing manifest file '/home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info/SOURCES.txt'
+[1.208s] running build
+[1.208s] running build_py
+[1.208s] creating /home/nikhil/nourish_ws/build/opencv_tests/build
+[1.209s] creating /home/nikhil/nourish_ws/build/opencv_tests/build/lib
+[1.209s] creating /home/nikhil/nourish_ws/build/opencv_tests/build/lib/nodes
+[1.209s] copying nodes/broadcast.py -> /home/nikhil/nourish_ws/build/opencv_tests/build/lib/nodes
+[1.209s] copying nodes/__init__.py -> /home/nikhil/nourish_ws/build/opencv_tests/build/lib/nodes
+[1.209s] copying nodes/source.py -> /home/nikhil/nourish_ws/build/opencv_tests/build/lib/nodes
+[1.209s] copying nodes/rosfacedetect.py -> /home/nikhil/nourish_ws/build/opencv_tests/build/lib/nodes
+[1.209s] running install
+[1.210s] running install_lib
+[1.211s] creating /home/nikhil/nourish_ws/install/opencv_tests/lib/python3.6/site-packages/nodes
+[1.211s] copying /home/nikhil/nourish_ws/build/opencv_tests/build/lib/nodes/broadcast.py -> /home/nikhil/nourish_ws/install/opencv_tests/lib/python3.6/site-packages/nodes
+[1.211s] copying /home/nikhil/nourish_ws/build/opencv_tests/build/lib/nodes/__init__.py -> /home/nikhil/nourish_ws/install/opencv_tests/lib/python3.6/site-packages/nodes
+[1.212s] copying /home/nikhil/nourish_ws/build/opencv_tests/build/lib/nodes/source.py -> /home/nikhil/nourish_ws/install/opencv_tests/lib/python3.6/site-packages/nodes
+[1.212s] copying /home/nikhil/nourish_ws/build/opencv_tests/build/lib/nodes/rosfacedetect.py -> /home/nikhil/nourish_ws/install/opencv_tests/lib/python3.6/site-packages/nodes
+[1.212s] byte-compiling /home/nikhil/nourish_ws/install/opencv_tests/lib/python3.6/site-packages/nodes/broadcast.py to broadcast.cpython-36.pyc
+[1.213s] byte-compiling /home/nikhil/nourish_ws/install/opencv_tests/lib/python3.6/site-packages/nodes/__init__.py to __init__.cpython-36.pyc
+[1.213s] byte-compiling /home/nikhil/nourish_ws/install/opencv_tests/lib/python3.6/site-packages/nodes/source.py to source.cpython-36.pyc
+[1.214s] byte-compiling /home/nikhil/nourish_ws/install/opencv_tests/lib/python3.6/site-packages/nodes/rosfacedetect.py to rosfacedetect.cpython-36.pyc
+[1.215s] running install_data
+[1.216s] creating /home/nikhil/nourish_ws/install/opencv_tests/share/ament_index
+[1.216s] creating /home/nikhil/nourish_ws/install/opencv_tests/share/ament_index/resource_index
+[1.217s] creating /home/nikhil/nourish_ws/install/opencv_tests/share/ament_index/resource_index/packages
+[1.217s] copying resource/opencv_tests -> /home/nikhil/nourish_ws/install/opencv_tests/share/ament_index/resource_index/packages
+[1.217s] copying package.xml -> /home/nikhil/nourish_ws/install/opencv_tests/share/opencv_tests
+[1.217s] running install_egg_info
+[1.220s] Copying /home/nikhil/nourish_ws/build/opencv_tests/opencv_tests.egg-info to /home/nikhil/nourish_ws/install/opencv_tests/lib/python3.6/site-packages/opencv_tests-2.1.4-py3.6.egg-info
+[1.221s] running install_scripts
+[1.250s] Installing broadcast script to /home/nikhil/nourish_ws/install/opencv_tests/lib/opencv_tests
+[1.250s] Installing rosfacedetect script to /home/nikhil/nourish_ws/install/opencv_tests/lib/opencv_tests
+[1.250s] Installing source script to /home/nikhil/nourish_ws/install/opencv_tests/lib/opencv_tests
+[1.250s] writing list of installed files to '/home/nikhil/nourish_ws/build/opencv_tests/install.log'
+[1.284s] Invoked command in '/home/nikhil/nourish_ws/src/ros-perception/vision_opencv/opencv_tests' returned '0': AMENT_PREFIX_PATH=/home/nikhil/nourish_ws/install/cv_bridge:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nikhil/nourish_ws/install/cv_bridge:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nikhil/nourish_ws/install/cv_bridge/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nikhil/nourish_ws/install/opencv_tests/lib/python3.6/site-packages:/home/nikhil/nourish_ws/install/cv_bridge/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/nikhil/nourish_ws/build/opencv_tests build --build-base /home/nikhil/nourish_ws/build/opencv_tests/build install --prefix /home/nikhil/nourish_ws/install/opencv_tests --record /home/nikhil/nourish_ws/build/opencv_tests/install.log --single-version-externally-managed

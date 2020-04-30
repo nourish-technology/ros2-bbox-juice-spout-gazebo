@@ -1,0 +1,6 @@
+[0.068s] Invoking command in '/home/nikhil/nourish_ws/build/image_transport': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros-perception/image_common/image_transport -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/image_transport
+[3.077s] Invoked command in '/home/nikhil/nourish_ws/build/image_transport' returned '0': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros-perception/image_common/image_transport -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/image_transport
+[3.079s] Invoking command in '/home/nikhil/nourish_ws/build/image_transport': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/image_transport -- -j12 -l12
+[17.459s] Invoked command in '/home/nikhil/nourish_ws/build/image_transport' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/image_transport -- -j12 -l12
+[18.107s] Invoking command in '/home/nikhil/nourish_ws/build/image_transport': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/image_transport --target install -- -j12 -l12
+[18.504s] Invoked command in '/home/nikhil/nourish_ws/build/image_transport' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/image_transport --target install -- -j12 -l12

@@ -1,0 +1,6 @@
+[0.029s] Invoking command in '/home/nikhil/nourish_ws/build/dcb_gazebo': /usr/bin/cmake /home/nikhil/nourish_ws/src/dcb_gazebo -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/dcb_gazebo
+[1.524s] Invoked command in '/home/nikhil/nourish_ws/build/dcb_gazebo' returned '0': /usr/bin/cmake /home/nikhil/nourish_ws/src/dcb_gazebo -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/dcb_gazebo
+[1.525s] Invoking command in '/home/nikhil/nourish_ws/build/dcb_gazebo': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/dcb_gazebo -- -j12 -l12
+[1.578s] Invoked command in '/home/nikhil/nourish_ws/build/dcb_gazebo' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/dcb_gazebo -- -j12 -l12
+[1.630s] Invoking command in '/home/nikhil/nourish_ws/build/dcb_gazebo': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/dcb_gazebo --target install -- -j12 -l12
+[1.809s] Invoked command in '/home/nikhil/nourish_ws/build/dcb_gazebo' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/dcb_gazebo --target install -- -j12 -l12

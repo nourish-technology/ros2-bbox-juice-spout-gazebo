@@ -1,0 +1,393 @@
+[0.127s] -- The C compiler identification is GNU 7.5.0
+[0.202s] -- The CXX compiler identification is GNU 7.5.0
+[0.205s] -- Check for working C compiler: /usr/bin/cc
+[0.269s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.270s] -- Detecting C compiler ABI info
+[0.336s] -- Detecting C compiler ABI info - done
+[0.343s] -- Detecting C compile features
+[0.553s] -- Detecting C compile features - done
+[0.556s] -- Check for working CXX compiler: /usr/bin/c++
+[0.644s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.645s] -- Detecting CXX compiler ABI info
+[0.721s] -- Detecting CXX compiler ABI info - done
+[0.725s] -- Detecting CXX compile features
+[1.071s] -- Detecting CXX compile features - done
+[1.073s] -- Found ament_cmake: 0.7.4 (/home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake/cmake)
+[1.098s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[1.098s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.314s] -- Found rosidl_default_generators: 0.7.0 (/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_default_generators/cmake)
+[1.344s] -- Could not find RTI Connext - skipping rosidl_typesupport_connext_c
+[1.355s] -- Found rosidl_adapter: 0.7.9 (/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_adapter/cmake)
+[1.365s] -- Could not find RTI Connext - skipping rosidl_typesupport_connext_cpp
+[1.441s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1") 
+[1.461s] -- Found FastRTPS: /home/nikhil/ros2_dashing/ros2-linux/include  
+[1.518s] -- Could not find PrismTech OpenSplice - skipping rosidl_typesupport_opensplice_c
+[1.521s] -- Could not find PrismTech OpenSplice - skipping rosidl_typesupport_opensplice_cpp
+[1.564s] -- Found PythonInterp: /usr/bin/python3 (found version "3.6.9") 
+[1.696s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_connext_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c;rosidl_typesupport_opensplice_c
+[1.701s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_connext_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp;rosidl_typesupport_opensplice_cpp
+[1.816s] -- Found rmw_implementation_cmake: 0.7.2 (/home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake)
+[1.853s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3.5") 
+[1.854s] -- Found python_cmake_module: 0.7.10 (/home/nikhil/ros2_dashing/ros2-linux/share/python_cmake_module/cmake)
+[1.880s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.6m.so (found suitable version "3.6.9", minimum required is "3.5") 
+[1.880s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.880s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.6m
+[1.880s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.6m.so
+[1.903s] -- Found PythonExtra: .so  
+[1.907s] -- Could not find RTI Connext - skipping rmw_connext_cpp
+[1.914s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_include_directories-extras.cmake:11 (message):
+[1.914s]   Package 'rmw_connext_shared_cpp' exports the include directory
+[1.914s]   '/opt/rti.com/rti_connext_dds-5.3.1/include' which doesn't exist
+[1.914s] Call Stack (most recent call first):
+[1.914s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[1.914s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[1.914s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[1.914s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[1.914s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[1.914s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[1.914s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[1.914s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[1.915s]   CMakeLists.txt:35 (rosidl_generate_interfaces)
+[1.915s] 
+[1.915s] 
+[1.915s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_include_directories-extras.cmake:11 (message):
+[1.915s]   Package 'rmw_connext_shared_cpp' exports the include directory
+[1.915s]   '/opt/rti.com/rti_connext_dds-5.3.1/include/ndds' which doesn't exist
+[1.915s] Call Stack (most recent call first):
+[1.915s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[1.915s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[1.915s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[1.915s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[1.915s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[1.915s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[1.915s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[1.915s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[1.915s]   CMakeLists.txt:35 (rosidl_generate_interfaces)
+[1.915s] 
+[1.915s] 
+[1.917s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_libraries-extras.cmake:62 (message):
+[1.917s]   Package 'rmw_connext_shared_cpp' exports the library
+[1.917s]   '/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0/libnddsc.so'
+[1.918s]   which doesn't exist
+[1.918s] Call Stack (most recent call first):
+[1.918s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[1.918s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[1.918s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[1.918s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[1.918s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[1.918s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[1.918s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[1.918s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[1.918s]   CMakeLists.txt:35 (rosidl_generate_interfaces)
+[1.918s] 
+[1.918s] 
+[1.919s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_libraries-extras.cmake:62 (message):
+[1.919s]   Package 'rmw_connext_shared_cpp' exports the library
+[1.919s]   '/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0/libnddscore.so'
+[1.919s]   which doesn't exist
+[1.919s] Call Stack (most recent call first):
+[1.919s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[1.919s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[1.919s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[1.919s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[1.919s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[1.919s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[1.919s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[1.919s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[1.920s]   CMakeLists.txt:35 (rosidl_generate_interfaces)
+[1.920s] 
+[1.920s] 
+[1.920s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_libraries-extras.cmake:62 (message):
+[1.920s]   Package 'rmw_connext_shared_cpp' exports the library
+[1.920s]   '/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0/libnddscpp.so'
+[1.920s]   which doesn't exist
+[1.920s] Call Stack (most recent call first):
+[1.920s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[1.920s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[1.920s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[1.920s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[1.921s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[1.921s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[1.921s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[1.921s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[1.921s]   CMakeLists.txt:35 (rosidl_generate_interfaces)
+[1.921s] 
+[1.921s] 
+[1.921s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_libraries-extras.cmake:62 (message):
+[1.921s]   Package 'rmw_connext_shared_cpp' exports the library
+[1.921s]   '/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0/librticonnextmsgcpp.so'
+[1.921s]   which doesn't exist
+[1.921s] Call Stack (most recent call first):
+[1.921s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[1.921s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[1.922s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[1.922s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[1.922s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[1.922s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[1.922s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[1.922s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[1.922s]   CMakeLists.txt:35 (rosidl_generate_interfaces)
+[1.922s] 
+[1.922s] 
+[1.922s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_libraries-extras.cmake:62 (message):
+[1.922s]   Package 'rmw_connext_shared_cpp' exports the library
+[1.923s]   '/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0/libnddscd.so'
+[1.923s]   which doesn't exist
+[1.923s] Call Stack (most recent call first):
+[1.923s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[1.923s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[1.923s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[1.923s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[1.923s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[1.923s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[1.924s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[1.924s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[1.924s]   CMakeLists.txt:35 (rosidl_generate_interfaces)
+[1.924s] 
+[1.924s] 
+[1.924s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_libraries-extras.cmake:62 (message):
+[1.924s]   Package 'rmw_connext_shared_cpp' exports the library
+[1.924s]   '/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0/libnddscored.so'
+[1.924s]   which doesn't exist
+[1.924s] Call Stack (most recent call first):
+[1.924s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[1.924s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[1.924s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[1.925s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[1.925s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[1.925s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[1.925s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[1.925s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[1.925s]   CMakeLists.txt:35 (rosidl_generate_interfaces)
+[1.925s] 
+[1.925s] 
+[1.925s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_libraries-extras.cmake:62 (message):
+[1.925s]   Package 'rmw_connext_shared_cpp' exports the library
+[1.925s]   '/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0/libnddscppd.so'
+[1.925s]   which doesn't exist
+[1.925s] Call Stack (most recent call first):
+[1.925s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[1.925s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[1.925s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[1.926s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[1.926s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[1.926s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[1.926s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[1.926s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[1.926s]   CMakeLists.txt:35 (rosidl_generate_interfaces)
+[1.926s] 
+[1.926s] 
+[1.926s] CMake Warning at /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/ament_cmake_export_libraries-extras.cmake:62 (message):
+[1.926s]   Package 'rmw_connext_shared_cpp' exports the library
+[1.926s]   '/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0/librticonnextmsgcppd.so'
+[1.926s]   which doesn't exist
+[1.926s] Call Stack (most recent call first):
+[1.926s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_shared_cpp/cmake/rmw_connext_shared_cppConfig.cmake:38 (include)
+[1.926s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[1.927s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake:38 (include)
+[1.927s]   /home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake:61 (find_package)
+[1.927s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_get_typesupports.cmake:26 (call_for_each_rmw_implementation)
+[1.927s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:27 (rosidl_generator_py_get_typesupports)
+[1.927s]   /home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[1.927s]   /home/nikhil/ros2_dashing/ros2-linux/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[1.927s]   CMakeLists.txt:35 (rosidl_generate_interfaces)
+[1.927s] 
+[1.927s] 
+[2.043s] -- Could not find PrismTech OpenSplice - skipping rmw_opensplice_cpp
+[2.084s] -- Found ament_lint_auto: 0.7.11 (/home/nikhil/ros2_dashing/ros2-linux/share/ament_lint_auto/cmake)
+[2.106s] -- Added test 'lint_cmake' to check CMake code style
+[2.107s] -- Added test 'xmllint' to check XML markup files
+[2.110s] -- Configuring done
+[2.148s] -- Generating done
+[2.151s] -- Build files have been written to: /home/nikhil/nourish_ws/build/juice_dcb_msgs
+[2.200s] [35m[1mScanning dependencies of target juice_dcb_msgs__cpp[0m
+[2.201s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[2.210s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[2.563s] [  5%] Built target juice_dcb_msgs__cpp
+[2.578s] [  7%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[2.586s] [ 10%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[2.593s] [ 12%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[2.604s] [35m[1mScanning dependencies of target juice_dcb_msgs__rosidl_generator_c[0m
+[2.623s] [ 17%] [32mBuilding C object CMakeFiles/juice_dcb_msgs__rosidl_generator_c.dir/rosidl_generator_c/juice_dcb_msgs/msg/command_result__functions.c.o[0m
+[2.624s] [ 17%] [32mBuilding C object CMakeFiles/juice_dcb_msgs__rosidl_generator_c.dir/rosidl_generator_c/juice_dcb_msgs/srv/set_pouring__functions.c.o[0m
+[2.698s] [ 20%] [32m[1mLinking C shared library libjuice_dcb_msgs__rosidl_generator_c.so[0m
+[2.772s] [ 20%] Built target juice_dcb_msgs__rosidl_generator_c
+[2.789s] [ 23%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[2.795s] [ 25%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[3.148s] [35m[1mScanning dependencies of target juice_dcb_msgs__rosidl_typesupport_cpp[0m
+[3.243s] [ 28%] [32mBuilding CXX object CMakeFiles/juice_dcb_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/juice_dcb_msgs/msg/command_result__type_support.cpp.o[0m
+[3.245s] [ 30%] [32mBuilding CXX object CMakeFiles/juice_dcb_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/juice_dcb_msgs/srv/set_pouring__type_support.cpp.o[0m
+[3.269s] [35m[1mScanning dependencies of target juice_dcb_msgs__rosidl_typesupport_introspection_cpp[0m
+[3.303s] [35m[1mScanning dependencies of target juice_dcb_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[3.340s] [ 33%] [32mBuilding CXX object CMakeFiles/juice_dcb_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/juice_dcb_msgs/msg/command_result__type_support.cpp.o[0m
+[3.359s] [ 35%] [32mBuilding CXX object CMakeFiles/juice_dcb_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/juice_dcb_msgs/srv/set_pouring__type_support.cpp.o[0m
+[3.409s] [ 38%] [32mBuilding CXX object CMakeFiles/juice_dcb_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/juice_dcb_msgs/msg/dds_fastrtps/command_result__type_support.cpp.o[0m
+[3.411s] [ 41%] [32mBuilding CXX object CMakeFiles/juice_dcb_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/juice_dcb_msgs/srv/dds_fastrtps/set_pouring__type_support.cpp.o[0m
+[3.497s] [35m[1mScanning dependencies of target juice_dcb_msgs__rosidl_typesupport_introspection_c[0m
+[3.550s] [35m[1mScanning dependencies of target juice_dcb_msgs__rosidl_typesupport_c[0m
+[3.638s] [ 43%] [32mBuilding C object CMakeFiles/juice_dcb_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/juice_dcb_msgs/msg/command_result__type_support.c.o[0m
+[3.643s] [ 46%] [32mBuilding C object CMakeFiles/juice_dcb_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/juice_dcb_msgs/srv/set_pouring__type_support.c.o[0m
+[3.653s] [ 48%] [32mBuilding CXX object CMakeFiles/juice_dcb_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/juice_dcb_msgs/msg/command_result__type_support.cpp.o[0m
+[3.654s] [ 51%] [32mBuilding CXX object CMakeFiles/juice_dcb_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/juice_dcb_msgs/srv/set_pouring__type_support.cpp.o[0m
+[3.898s] [ 53%] [32m[1mLinking C shared library libjuice_dcb_msgs__rosidl_typesupport_introspection_c.so[0m
+[3.899s] [ 56%] [32m[1mLinking CXX shared library libjuice_dcb_msgs__rosidl_typesupport_c.so[0m
+[4.022s] [ 58%] [32m[1mLinking CXX shared library libjuice_dcb_msgs__rosidl_typesupport_cpp.so[0m
+[4.024s] [ 61%] [32m[1mLinking CXX shared library libjuice_dcb_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[4.060s] [ 61%] Built target juice_dcb_msgs__rosidl_typesupport_c
+[4.077s] [ 61%] Built target juice_dcb_msgs__rosidl_typesupport_introspection_c
+[4.193s] [ 61%] Built target juice_dcb_msgs__rosidl_typesupport_cpp
+[4.212s] [ 61%] Built target juice_dcb_msgs__rosidl_typesupport_introspection_cpp
+[4.268s] [ 64%] [32m[1mLinking CXX shared library libjuice_dcb_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[4.427s] [ 64%] Built target juice_dcb_msgs__rosidl_typesupport_fastrtps_cpp
+[4.439s] [ 66%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[5.048s] [35m[1mScanning dependencies of target juice_dcb_msgs__rosidl_typesupport_fastrtps_c[0m
+[5.084s] [ 69%] [32mBuilding CXX object CMakeFiles/juice_dcb_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/juice_dcb_msgs/srv/set_pouring__type_support_c.cpp.o[0m
+[5.097s] [ 71%] [32mBuilding CXX object CMakeFiles/juice_dcb_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/juice_dcb_msgs/msg/command_result__type_support_c.cpp.o[0m
+[5.640s] [ 74%] [32m[1mLinking CXX shared library libjuice_dcb_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[5.887s] [ 74%] Built target juice_dcb_msgs__rosidl_typesupport_fastrtps_c
+[5.947s] [35m[1mScanning dependencies of target juice_dcb_msgs[0m
+[5.983s] [ 74%] Built target juice_dcb_msgs
+[6.039s] [35m[1mScanning dependencies of target juice_dcb_msgs__py[0m
+[6.102s] [ 76%] [34m[1mGenerating Python code for ROS interfaces[0m
+[7.377s] [ 76%] Built target juice_dcb_msgs__py
+[7.392s] [35m[1mScanning dependencies of target juice_dcb_msgs__python[0m
+[7.424s] [ 79%] [32mBuilding C object CMakeFiles/juice_dcb_msgs__python.dir/rosidl_generator_py/juice_dcb_msgs/srv/_set_pouring_s.c.o[0m
+[7.429s] [ 82%] [32mBuilding C object CMakeFiles/juice_dcb_msgs__python.dir/rosidl_generator_py/juice_dcb_msgs/msg/_command_result_s.c.o[0m
+[7.559s] [ 84%] [32m[1mLinking C shared library rosidl_generator_py/juice_dcb_msgs/libjuice_dcb_msgs__python.so[0m
+[7.617s] [ 84%] Built target juice_dcb_msgs__python
+[7.634s] [35m[1mScanning dependencies of target juice_dcb_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[7.639s] [35m[1mScanning dependencies of target juice_dcb_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[7.641s] [35m[1mScanning dependencies of target juice_dcb_msgs__rosidl_typesupport_c__pyext[0m
+[7.686s] [ 87%] [32mBuilding C object CMakeFiles/juice_dcb_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/juice_dcb_msgs/_juice_dcb_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[7.700s] [ 89%] [32mBuilding C object CMakeFiles/juice_dcb_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/juice_dcb_msgs/_juice_dcb_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[7.704s] [ 92%] [32mBuilding C object CMakeFiles/juice_dcb_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/juice_dcb_msgs/_juice_dcb_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[7.870s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/juice_dcb_msgs/juice_dcb_msgs_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so[0m
+[7.928s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/juice_dcb_msgs/juice_dcb_msgs_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so[0m
+[7.942s] [100%] [32m[1mLinking C shared library rosidl_generator_py/juice_dcb_msgs/juice_dcb_msgs_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so[0m
+[8.177s] [100%] Built target juice_dcb_msgs__rosidl_typesupport_c__pyext
+[8.194s] [100%] Built target juice_dcb_msgs__rosidl_typesupport_introspection_c__pyext
+[8.241s] [100%] Built target juice_dcb_msgs__rosidl_typesupport_fastrtps_c__pyext
+[9.331s] [  2%] Built target juice_dcb_msgs__cpp
+[9.335s] [ 12%] Built target juice_dcb_msgs__rosidl_generator_c
+[9.428s] [ 23%] Built target juice_dcb_msgs__rosidl_typesupport_introspection_c
+[9.456s] [ 33%] Built target juice_dcb_msgs__rosidl_typesupport_introspection_cpp
+[9.529s] [ 43%] Built target juice_dcb_msgs__rosidl_typesupport_c
+[9.546s] [ 64%] Built target juice_dcb_msgs__rosidl_typesupport_cpp
+[9.546s] [ 64%] Built target juice_dcb_msgs__rosidl_typesupport_fastrtps_cpp
+[9.688s] [ 74%] Built target juice_dcb_msgs__rosidl_typesupport_fastrtps_c
+[9.815s] [ 74%] Built target juice_dcb_msgs
+[9.969s] [ 76%] Built target juice_dcb_msgs__py
+[10.080s] [ 84%] Built target juice_dcb_msgs__python
+[10.187s] [ 89%] Built target juice_dcb_msgs__rosidl_typesupport_introspection_c__pyext
+[10.202s] [ 94%] Built target juice_dcb_msgs__rosidl_typesupport_c__pyext
+[10.217s] [100%] Built target juice_dcb_msgs__rosidl_typesupport_fastrtps_c__pyext
+[10.258s] [36mInstall the project...[0m
+[10.279s] -- Install configuration: ""
+[10.279s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/ament_index/resource_index/rosidl_interfaces/juice_dcb_msgs
+[10.279s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_c.so
+[10.280s] -- Set runtime path of "/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_c.so" to ""
+[10.280s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/environment/library_path.sh
+[10.281s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_cpp.so
+[10.281s] -- Set runtime path of "/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_cpp.so" to ""
+[10.281s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs
+[10.282s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg
+[10.282s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__struct.h
+[10.282s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__functions.h
+[10.282s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result.h
+[10.282s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__type_support.h
+[10.283s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/rosidl_generator_c__visibility_control.h
+[10.283s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__functions.c
+[10.283s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv
+[10.283s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__type_support.h
+[10.283s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__functions.h
+[10.284s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring.h
+[10.284s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__functions.c
+[10.284s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__struct.h
+[10.284s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_generator_c.so
+[10.285s] -- Set runtime path of "/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_generator_c.so" to ""
+[10.285s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs
+[10.285s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg
+[10.285s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result.hpp
+[10.285s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__struct.hpp
+[10.285s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__traits.hpp
+[10.286s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv
+[10.286s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__traits.hpp
+[10.286s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__struct.hpp
+[10.286s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring.hpp
+[10.287s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs
+[10.287s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg
+[10.287s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__rosidl_typesupport_fastrtps_c.h
+[10.288s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[10.288s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv
+[10.288s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__rosidl_typesupport_fastrtps_c.h
+[10.288s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_fastrtps_c.so
+[10.288s] -- Set runtime path of "/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[10.289s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs
+[10.289s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg
+[10.289s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__rosidl_typesupport_fastrtps_cpp.hpp
+[10.289s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/dds_fastrtps
+[10.290s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[10.290s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv
+[10.290s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__rosidl_typesupport_fastrtps_cpp.hpp
+[10.290s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/dds_fastrtps
+[10.290s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_fastrtps_cpp.so
+[10.290s] -- Set runtime path of "/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[10.291s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs
+[10.291s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg
+[10.291s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__rosidl_typesupport_introspection_c.h
+[10.291s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[10.291s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__type_support.c
+[10.291s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv
+[10.292s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__rosidl_typesupport_introspection_c.h
+[10.292s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__type_support.c
+[10.292s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_introspection_c.so
+[10.292s] -- Set runtime path of "/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_introspection_c.so" to ""
+[10.292s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs
+[10.292s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg
+[10.292s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__rosidl_typesupport_introspection_cpp.hpp
+[10.293s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/msg/command_result__type_support.cpp
+[10.293s] -- Up-to-date: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv
+[10.293s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__rosidl_typesupport_introspection_cpp.hpp
+[10.293s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/include/juice_dcb_msgs/srv/set_pouring__type_support.cpp
+[10.293s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_introspection_cpp.so
+[10.294s] -- Set runtime path of "/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[10.294s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/environment/pythonpath.sh
+[10.295s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/__init__.py
+[10.353s] Compiling '/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/__init__.py'...
+[10.361s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/msg
+[10.361s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/msg/_command_result.py
+[10.361s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/msg/__init__.py
+[10.361s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/msg/_command_result_s.c
+[10.362s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/srv
+[10.362s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/srv/__init__.py
+[10.362s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/srv/_set_pouring_s.c
+[10.362s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/srv/_set_pouring.py
+[10.362s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/juice_dcb_msgs_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so
+[10.362s] -- Set runtime path of "/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/juice_dcb_msgs_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[10.363s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/juice_dcb_msgs_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so
+[10.364s] -- Set runtime path of "/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/juice_dcb_msgs_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[10.364s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/juice_dcb_msgs_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so
+[10.365s] -- Set runtime path of "/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/python3.6/site-packages/juice_dcb_msgs/juice_dcb_msgs_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[10.365s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__python.so
+[10.365s] -- Set runtime path of "/home/nikhil/nourish_ws/install/juice_dcb_msgs/lib/libjuice_dcb_msgs__python.so" to ""
+[10.366s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/msg/CommandResult.idl
+[10.366s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/srv/SetPouring.idl
+[10.366s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/msg/CommandResult.msg
+[10.366s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/srv/SetPouring.srv
+[10.366s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/srv/SetPouring_Request.msg
+[10.367s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/srv/SetPouring_Response.msg
+[10.367s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/ament_index/resource_index/package_run_dependencies/juice_dcb_msgs
+[10.367s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/ament_index/resource_index/parent_prefix_path/juice_dcb_msgs
+[10.367s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/environment/ament_prefix_path.sh
+[10.367s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/environment/path.sh
+[10.368s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/local_setup.bash
+[10.368s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/local_setup.sh
+[10.368s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/local_setup.zsh
+[10.368s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/ament_index/resource_index/packages/juice_dcb_msgs
+[10.368s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/cmake/rosidl_cmake-extras.cmake
+[10.369s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[10.369s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[10.369s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[10.369s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/cmake/juice_dcb_msgsConfig.cmake
+[10.369s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/cmake/juice_dcb_msgsConfig-version.cmake
+[10.369s] -- Installing: /home/nikhil/nourish_ws/install/juice_dcb_msgs/share/juice_dcb_msgs/package.xml

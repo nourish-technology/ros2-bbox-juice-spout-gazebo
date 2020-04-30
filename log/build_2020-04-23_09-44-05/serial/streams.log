@@ -1,0 +1,14 @@
+[0.040s] Invoking command in '/home/nikhil/nourish_ws/build/serial': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/serial -- -j12 -l12
+[0.082s] [35m[1mScanning dependencies of target serial[0m
+[0.095s] [ 25%] [32mBuilding CXX object CMakeFiles/serial.dir/src/impl/unix.cc.o[0m
+[0.349s] [01m[K/home/nikhil/nourish_ws/src/serial-ros2/src/impl/unix.cc:[m[K In member function ‘[01m[Kvoid serial::Serial::SerialImpl::open()[m[K’:
+[0.349s] [01m[K/home/nikhil/nourish_ws/src/serial-ros2/src/impl/unix.cc:153:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+[0.350s]      [01;31m[K}[m[K
+[0.350s]      [01;31m[K^[m[K
+[0.404s] CMakeFiles/serial.dir/build.make:86: recipe for target 'CMakeFiles/serial.dir/src/impl/unix.cc.o' failed
+[0.404s] make[2]: *** [CMakeFiles/serial.dir/src/impl/unix.cc.o] Error 1
+[0.404s] make[1]: *** [CMakeFiles/serial.dir/all] Error 2
+[0.404s] CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/serial.dir/all' failed
+[0.404s] Makefile:140: recipe for target 'all' failed
+[0.404s] make: *** [all] Error 2
+[0.406s] Invoked command in '/home/nikhil/nourish_ws/build/serial' returned '2': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/serial -- -j12 -l12

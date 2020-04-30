@@ -1,0 +1,4 @@
+bool is_connected
+bool motion_program_is_running
+bool registration_sensor_is_activated
+bool is_waiting

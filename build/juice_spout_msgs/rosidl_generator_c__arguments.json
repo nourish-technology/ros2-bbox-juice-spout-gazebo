@@ -1,0 +1,46 @@
+{
+  "package_name": "juice_spout_msgs",
+  "output_dir": "/home/nikhil/nourish_ws/build/juice_spout_msgs/rosidl_generator_c/juice_spout_msgs",
+  "template_dir": "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_c/cmake/../resource",
+  "idl_tuples": [
+    "/home/nikhil/nourish_ws/build/juice_spout_msgs/rosidl_adapter/juice_spout_msgs:srv/RunRecipe.idl",
+    "/home/nikhil/nourish_ws/build/juice_spout_msgs/rosidl_adapter/juice_spout_msgs:srv/SetFill.idl",
+    "/home/nikhil/nourish_ws/build/juice_spout_msgs/rosidl_adapter/juice_spout_msgs:action/RunActionRecipe.idl",
+    "/home/nikhil/nourish_ws/build/juice_spout_msgs/rosidl_adapter/juice_spout_msgs:msg/SpoutState.idl"
+  ],
+  "ros_interface_dependencies": [
+    "action_msgs:/home/nikhil/ros2_dashing/ros2-linux/share/action_msgs/msg/GoalInfo.idl",
+    "action_msgs:/home/nikhil/ros2_dashing/ros2-linux/share/action_msgs/msg/GoalStatus.idl",
+    "action_msgs:/home/nikhil/ros2_dashing/ros2-linux/share/action_msgs/msg/GoalStatusArray.idl",
+    "action_msgs:/home/nikhil/ros2_dashing/ros2-linux/share/action_msgs/srv/CancelGoal.idl",
+    "builtin_interfaces:/home/nikhil/ros2_dashing/ros2-linux/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/home/nikhil/ros2_dashing/ros2-linux/share/builtin_interfaces/msg/Time.idl",
+    "unique_identifier_msgs:/home/nikhil/ros2_dashing/ros2-linux/share/unique_identifier_msgs/msg/UUID.idl"
+  ],
+  "target_dependencies": [
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_c/cmake/../../../lib/python3.6/site-packages/rosidl_generator_c/__init__.py",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_c/cmake/../resource/action__type_support.h.em",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_c/cmake/../resource/idl.h.em",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_c/cmake/../resource/idl__functions.c.em",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_c/cmake/../resource/idl__functions.h.em",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_c/cmake/../resource/idl__struct.h.em",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_c/cmake/../resource/idl__type_support.h.em",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_c/cmake/../resource/msg__functions.c.em",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_c/cmake/../resource/msg__functions.h.em",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_c/cmake/../resource/msg__struct.h.em",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_c/cmake/../resource/msg__type_support.h.em",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_generator_c/cmake/../resource/srv__type_support.h.em",
+    "/home/nikhil/nourish_ws/build/juice_spout_msgs/rosidl_adapter/juice_spout_msgs/srv/RunRecipe.idl",
+    "/home/nikhil/nourish_ws/build/juice_spout_msgs/rosidl_adapter/juice_spout_msgs/srv/SetFill.idl",
+    "/home/nikhil/nourish_ws/build/juice_spout_msgs/rosidl_adapter/juice_spout_msgs/action/RunActionRecipe.idl",
+    "/home/nikhil/nourish_ws/build/juice_spout_msgs/rosidl_adapter/juice_spout_msgs/msg/SpoutState.idl",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/action_msgs/msg/GoalInfo.idl",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/action_msgs/msg/GoalStatus.idl",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/action_msgs/msg/GoalStatusArray.idl",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/action_msgs/srv/CancelGoal.idl",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/builtin_interfaces/msg/Duration.idl",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/builtin_interfaces/msg/Time.idl",
+    "/home/nikhil/ros2_dashing/ros2-linux/share/unique_identifier_msgs/msg/UUID.idl"
+  ]
+}

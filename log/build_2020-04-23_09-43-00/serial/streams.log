@@ -1,0 +1,18 @@
+[0.054s] Invoking command in '/home/nikhil/nourish_ws/build/serial': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/serial -- -j12 -l12
+[0.110s] [35m[1mScanning dependencies of target serial[0m
+[0.124s] [ 25%] [32mBuilding CXX object CMakeFiles/serial.dir/src/impl/unix.cc.o[0m
+[0.370s] [01m[K/home/nikhil/nourish_ws/src/serial-ros2/src/impl/unix.cc:[m[K In member function ‘[01m[Kvoid serial::Serial::SerialImpl::open()[m[K’:
+[0.370s] [01m[K/home/nikhil/nourish_ws/src/serial-ros2/src/impl/unix.cc:151:30:[m[K [01;31m[Kerror: [m[K‘[01m[Kport[m[K’ was not declared in this scope
+[0.370s]        printf("File name %s", [01;31m[Kport[m[K.c_str())
+[0.370s]                               [01;31m[K^~~~[m[K
+[0.370s] [01m[K/home/nikhil/nourish_ws/src/serial-ros2/src/impl/unix.cc:151:30:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kport_[m[K’
+[0.370s]        printf("File name %s", [01;36m[Kport[m[K.c_str())
+[0.370s]                               [01;36m[K^~~~[m[K
+[0.370s]                               [32m[Kport_[m[K
+[0.429s] CMakeFiles/serial.dir/build.make:86: recipe for target 'CMakeFiles/serial.dir/src/impl/unix.cc.o' failed
+[0.430s] make[2]: *** [CMakeFiles/serial.dir/src/impl/unix.cc.o] Error 1
+[0.430s] make[1]: *** [CMakeFiles/serial.dir/all] Error 2
+[0.430s] make: *** [all] Error 2
+[0.430s] CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/serial.dir/all' failed
+[0.430s] Makefile:140: recipe for target 'all' failed
+[0.433s] Invoked command in '/home/nikhil/nourish_ws/build/serial' returned '2': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/serial -- -j12 -l12

@@ -1,0 +1,6 @@
+[0.032s] Invoking command in '/home/nikhil/nourish_ws/build/dolly_gazebo': /usr/bin/cmake /home/nikhil/nourish_ws/src/dcb_gazebo -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/dolly_gazebo
+[1.689s] Invoked command in '/home/nikhil/nourish_ws/build/dolly_gazebo' returned '0': /usr/bin/cmake /home/nikhil/nourish_ws/src/dcb_gazebo -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/dolly_gazebo
+[1.691s] Invoking command in '/home/nikhil/nourish_ws/build/dolly_gazebo': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/dolly_gazebo -- -j12 -l12
+[1.727s] Invoked command in '/home/nikhil/nourish_ws/build/dolly_gazebo' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/dolly_gazebo -- -j12 -l12
+[1.746s] Invoking command in '/home/nikhil/nourish_ws/build/dolly_gazebo': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/dolly_gazebo --target install -- -j12 -l12
+[1.848s] Invoked command in '/home/nikhil/nourish_ws/build/dolly_gazebo' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/dolly_gazebo --target install -- -j12 -l12

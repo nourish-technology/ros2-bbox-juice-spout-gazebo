@@ -1,0 +1,6 @@
+[0.074s] Invoking command in '/home/nikhil/nourish_ws/build/gazebo_dev': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros-simulation/gazebo_ros_pkgs/gazebo_dev -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/gazebo_dev
+[2.091s] Invoked command in '/home/nikhil/nourish_ws/build/gazebo_dev' returned '0': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros-simulation/gazebo_ros_pkgs/gazebo_dev -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/gazebo_dev
+[2.092s] Invoking command in '/home/nikhil/nourish_ws/build/gazebo_dev': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/gazebo_dev -- -j12 -l12
+[2.151s] Invoked command in '/home/nikhil/nourish_ws/build/gazebo_dev' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/gazebo_dev -- -j12 -l12
+[2.182s] Invoking command in '/home/nikhil/nourish_ws/build/gazebo_dev': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/gazebo_dev --target install -- -j12 -l12
+[2.258s] Invoked command in '/home/nikhil/nourish_ws/build/gazebo_dev' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/gazebo_dev --target install -- -j12 -l12

@@ -1,0 +1,217 @@
+[0.061s] -- Found ament_cmake: 0.7.4 (/home/nikhil/ros2_dashing/ros2-linux/share/ament_cmake/cmake)
+[0.090s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.267s] -- Found ament_lint_auto: 0.7.11 (/home/nikhil/ros2_dashing/ros2-linux/share/ament_lint_auto/cmake)
+[0.321s] -- Found camera_info_manager: 2.1.1 (/home/nikhil/nourish_ws/install/camera_info_manager/share/camera_info_manager/cmake)
+[0.322s] -- Found gazebo_dev: 3.3.4 (/home/nikhil/nourish_ws/install/gazebo_dev/share/gazebo_dev/cmake)
+[0.356s] -- Boost version: 1.65.1
+[0.356s] -- Found the following Boost libraries:
+[0.356s] --   thread
+[0.356s] --   system
+[0.356s] --   filesystem
+[0.356s] --   program_options
+[0.356s] --   regex
+[0.356s] --   iostreams
+[0.357s] --   date_time
+[0.357s] --   chrono
+[0.357s] --   atomic
+[0.362s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found version "3.0.0") 
+[0.377s] -- Boost version: 1.65.1
+[0.378s] -- Looking for OGRE...
+[0.382s] -- Found Ogre Ghadamon (1.9.0)
+[0.383s] -- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+[0.415s] -- Looking for OGRE_Paging...
+[0.416s] -- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+[0.416s] -- Looking for OGRE_Terrain...
+[0.416s] -- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+[0.416s] -- Looking for OGRE_Property...
+[0.416s] -- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+[0.416s] -- Looking for OGRE_RTShaderSystem...
+[0.416s] -- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+[0.416s] -- Looking for OGRE_Volume...
+[0.416s] -- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+[0.417s] -- Looking for OGRE_Overlay...
+[0.417s] -- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+[0.533s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread;-lpthread (found suitable version "3.0.0", minimum required is "2.3.0") 
+[0.540s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[0.544s] -- Checking for module 'libzmq >= 4'
+[0.555s] --   Found libzmq , version 4.3.3
+[0.588s] -- Checking for module 'uuid'
+[0.599s] --   Found uuid, version 2.31.1
+[0.635s] -- Checking for module 'tinyxml2'
+[0.646s] --   Found tinyxml2, version 6.0.0
+[0.682s] -- Looking for dlfcn.h - found
+[0.682s] -- Looking for libdl - found
+[0.684s] -- FreeImage.pc not found, we will search for FreeImage_INCLUDE_DIRS and FreeImage_LIBRARIES
+[0.800s] -- Checking for module 'gts'
+[0.820s] --   Found gts, version 0.7.6
+[0.917s] -- Checking for module 'libswscale'
+[0.948s] --   Found libswscale, version 4.8.100
+[1.046s] -- Checking for module 'libavdevice >= 56.4.100'
+[1.077s] --   Found libavdevice , version 57.10.100
+[1.193s] -- Checking for module 'libavformat'
+[1.225s] --   Found libavformat, version 57.83.100
+[1.330s] -- Checking for module 'libavcodec'
+[1.363s] --   Found libavcodec, version 57.107.100
+[1.466s] -- Checking for module 'libavutil'
+[1.498s] --   Found libavutil, version 55.78.100
+[1.608s] -- Checking for module 'jsoncpp'
+[1.641s] --   Found jsoncpp, version 1.7.4
+[1.743s] -- Checking for module 'libzip'
+[1.776s] --   Found libzip, version 1.1.2
+[1.867s] -- Gazebo version: 9.13
+[1.868s] -- Found gazebo_msgs: 3.3.4 (/home/nikhil/nourish_ws/install/gazebo_msgs/share/gazebo_msgs/cmake)
+[1.890s] -- Found rosidl_adapter: 0.7.9 (/home/nikhil/ros2_dashing/ros2-linux/share/rosidl_adapter/cmake)
+[1.951s] -- Found gazebo_ros: 3.3.4 (/home/nikhil/nourish_ws/install/gazebo_ros/share/gazebo_ros/cmake)
+[1.961s] -- Found rmw_implementation_cmake: 0.7.2 (/home/nikhil/ros2_dashing/ros2-linux/share/rmw_implementation_cmake/cmake)
+[1.962s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.993s] -- Found image_transport: 2.1.1 (/home/nikhil/nourish_ws/install/image_transport/share/image_transport/cmake)
+[2.018s] -- Found tinyxml2_vendor:  (/home/nikhil/ros2_dashing/ros2-linux/share/tinyxml2_vendor/cmake)
+[2.027s] -- Found poco_vendor:  (/home/nikhil/ros2_dashing/ros2-linux/share/poco_vendor/cmake)
+[2.033s] -- Found cv_bridge: 2.1.4 (/home/nikhil/nourish_ws/install/cv_bridge/share/cv_bridge/cmake)
+[2.043s] -- Found nav_msgs: 0.7.0 (/home/nikhil/ros2_dashing/ros2-linux/share/nav_msgs/cmake)
+[2.052s] -- Found std_srvs: 0.7.0 (/home/nikhil/ros2_dashing/ros2-linux/share/std_srvs/cmake)
+[2.055s] -- Found tf2: 0.11.6 (/home/nikhil/ros2_dashing/ros2-linux/share/tf2/cmake)
+[2.057s] -- Found tf2_geometry_msgs: 0.11.6 (/home/nikhil/ros2_dashing/ros2-linux/share/tf2_geometry_msgs/cmake)
+[2.129s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[2.140s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.141s] -- Configured cppcheck include dirs: /home/nikhil/nourish_ws/src/dcb_gazebo/include
+[2.152s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.154s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.157s] -- Added test 'lint_cmake' to check CMake code style
+[2.159s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[2.170s] -- Added test 'uncrustify' to check C / C++ code style
+[2.172s] -- Added test 'xmllint' to check XML markup files
+[2.175s] -- Configuring done
+[2.177s] -- Generating done
+[2.182s] -- Build files have been written to: /home/nikhil/nourish_ws/build/dcb_gazebo
+[2.285s] [36mInstall the project...[0m
+[2.293s] -- Install configuration: ""
+[2.294s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch
+[2.294s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/dcb.launch.py
+[2.294s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/log
+[2.294s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/log/latest_build
+[2.294s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/log/build_2020-04-29_11-20-56
+[2.294s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/log/build_2020-04-29_11-20-56/events.log
+[2.295s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/log/build_2020-04-29_11-20-56/logger_all.log
+[2.295s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/log/build_2020-04-29_11-13-02
+[2.295s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/log/build_2020-04-29_11-13-02/events.log
+[2.295s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/log/build_2020-04-29_11-13-02/logger_all.log
+[2.295s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/log/COLCON_IGNORE
+[2.295s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/log/latest
+[2.295s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/log/build_2020-04-29_11-20-57
+[2.295s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/log/build_2020-04-29_11-20-57/events.log
+[2.295s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/log/build_2020-04-29_11-20-57/logger_all.log
+[2.295s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/install
+[2.296s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/install/_local_setup_util_sh.py
+[2.296s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/install/local_setup.ps1
+[2.296s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/install/_local_setup_util_ps1.py
+[2.296s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/install/local_setup.zsh
+[2.296s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/install/setup.zsh
+[2.296s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/install/setup.bash
+[2.296s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/install/setup.ps1
+[2.296s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/install/setup.sh
+[2.296s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/install/COLCON_IGNORE
+[2.296s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/install/local_setup.bash
+[2.296s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/install/.colcon_install_layout
+[2.296s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/install/local_setup.sh
+[2.296s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/build
+[2.296s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/build/COLCON_IGNORE
+[2.296s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//launch/build/.built_by
+[2.297s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models
+[2.297s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/dolly
+[2.297s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/dolly/model.config
+[2.297s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/dolly/materials
+[2.297s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/dolly/materials/scripts
+[2.297s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/dolly/materials/scripts/script.material
+[2.297s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/dolly/materials/textures
+[2.297s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/dolly/materials/textures/sheep.jpg
+[2.297s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/dolly/model.sdf
+[2.297s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female
+[2.297s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/thumbnails
+[2.297s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/thumbnails/1.png
+[2.297s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/thumbnails/4.png
+[2.297s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/thumbnails/5.png
+[2.297s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/thumbnails/3.png
+[2.297s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/thumbnails/2.png
+[2.298s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/model.config
+[2.298s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/materials
+[2.298s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/materials/textures
+[2.298s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/materials/textures/female_casualsuit01_normal.png
+[2.298s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/materials/textures/ponytail01_diffuse.png
+[2.298s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/materials/textures/shoes05_diffuse.png
+[2.298s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/materials/textures/brown_eye.png
+[2.298s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/materials/textures/casual_female.png
+[2.298s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/materials/textures/female_casualsuit02_diffuse.png
+[2.298s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/materials/textures/female_casualsuit01_diffuse.png
+[2.298s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/materials/textures/young_lightskinned_female_diffuse.png
+[2.298s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/materials/textures/tongue01_diffuse.png
+[2.298s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/materials/textures/eyebrow002.png
+[2.298s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/materials/textures/female_casualsuit02_normal.png
+[2.299s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/materials/textures/eyelashes01.png
+[2.299s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/meshes
+[2.299s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/meshes/casual_female.dae
+[2.299s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//models/casual_female/model.sdf
+[2.299s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds
+[2.299s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/rviz
+[2.299s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/rviz/dolly_gazebo.rviz
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/dolly
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/dolly/model.config
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/dolly/materials
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/dolly/materials/scripts
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/dolly/materials/scripts/script.material
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/dolly/materials/textures
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/dolly/materials/textures/sheep.jpg
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/dolly/model.sdf
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/thumbnails
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/thumbnails/1.png
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/thumbnails/4.png
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/thumbnails/5.png
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/thumbnails/3.png
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/thumbnails/2.png
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/model.config
+[2.300s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/materials
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/materials/textures
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/materials/textures/female_casualsuit01_normal.png
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/materials/textures/ponytail01_diffuse.png
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/materials/textures/shoes05_diffuse.png
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/materials/textures/brown_eye.png
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/materials/textures/casual_female.png
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/materials/textures/female_casualsuit02_diffuse.png
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/materials/textures/female_casualsuit01_diffuse.png
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/materials/textures/young_lightskinned_female_diffuse.png
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/materials/textures/tongue01_diffuse.png
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/materials/textures/eyebrow002.png
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/materials/textures/female_casualsuit02_normal.png
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/materials/textures/eyelashes01.png
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/meshes
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/meshes/casual_female.dae
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/models/casual_female/model.sdf
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/dolly_empty.world
+[2.301s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/dolly_casual_female.world
+[2.302s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/package.xml
+[2.302s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/CMakeLists.txt
+[2.302s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/launch
+[2.302s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//worlds/launch/dolly.launch.py
+[2.302s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//rviz
+[2.302s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo//rviz/dolly_gazebo.rviz
+[2.302s] -- Installing: /home/nikhil/nourish_ws/install/dcb_gazebo/share/ament_index/resource_index/package_run_dependencies/dcb_gazebo
+[2.302s] -- Installing: /home/nikhil/nourish_ws/install/dcb_gazebo/share/ament_index/resource_index/parent_prefix_path/dcb_gazebo
+[2.302s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo/environment/ament_prefix_path.sh
+[2.302s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo/environment/path.sh
+[2.302s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo/local_setup.bash
+[2.302s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo/local_setup.sh
+[2.302s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo/local_setup.zsh
+[2.302s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/ament_index/resource_index/packages/dcb_gazebo
+[2.302s] -- Installing: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.302s] -- Installing: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.302s] -- Installing: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo/cmake/dcb_gazeboConfig.cmake
+[2.303s] -- Up-to-date: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo/cmake/dcb_gazeboConfig-version.cmake
+[2.303s] -- Installing: /home/nikhil/nourish_ws/install/dcb_gazebo/share/dcb_gazebo/package.xml
+[2.303s] CMake Error at cmake_install.cmake:108 (file):
+[2.303s]   file INSTALL cannot find "/home/nikhil/nourish_ws/src/dcb_gazebo/include".
+[2.303s] 
+[2.303s] 
+[2.303s] Makefile:128: recipe for target 'install' failed
+[2.303s] make: *** [install] Error 1

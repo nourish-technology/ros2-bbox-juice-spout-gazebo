@@ -1,0 +1,4 @@
+[0.030s] Invoking command in '/home/nikhil/nourish_ws/build/nourish_scale_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_scale_msgs -- -j12 -l12
+[0.322s] Invoked command in '/home/nikhil/nourish_ws/build/nourish_scale_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_scale_msgs -- -j12 -l12
+[0.406s] Invoking command in '/home/nikhil/nourish_ws/build/nourish_scale_msgs': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_scale_msgs --target install -- -j12 -l12
+[0.849s] Invoked command in '/home/nikhil/nourish_ws/build/nourish_scale_msgs' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/nourish_scale_msgs --target install -- -j12 -l12

@@ -1,0 +1,4 @@
+/home/nikhil/nourish_ws/build/juice_spout_msgs/rosidl_adapter/juice_spout_msgs:srv/RunRecipe.idl
+/home/nikhil/nourish_ws/build/juice_spout_msgs/rosidl_adapter/juice_spout_msgs:srv/SetFill.idl
+/home/nikhil/nourish_ws/build/juice_spout_msgs/rosidl_adapter/juice_spout_msgs:action/RunActionRecipe.idl
+/home/nikhil/nourish_ws/build/juice_spout_msgs/rosidl_adapter/juice_spout_msgs:msg/SpoutState.idl

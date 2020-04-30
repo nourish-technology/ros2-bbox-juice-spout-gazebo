@@ -1,0 +1,4 @@
+[0.086s] Invoking command in '/home/nikhil/nourish_ws/build/image_geometry': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/image_geometry -- -j12 -l12
+[0.395s] Invoked command in '/home/nikhil/nourish_ws/build/image_geometry' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/image_geometry -- -j12 -l12
+[0.456s] Invoking command in '/home/nikhil/nourish_ws/build/image_geometry': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/image_geometry --target install -- -j12 -l12
+[0.751s] Invoked command in '/home/nikhil/nourish_ws/build/image_geometry' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/image_geometry --target install -- -j12 -l12

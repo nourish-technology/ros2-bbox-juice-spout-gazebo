@@ -1,0 +1,5 @@
+[0.110s] [35m[1mScanning dependencies of target serial[0m
+[0.124s] [ 25%] [32mBuilding CXX object CMakeFiles/serial.dir/src/impl/unix.cc.o[0m
+[0.429s] CMakeFiles/serial.dir/build.make:86: recipe for target 'CMakeFiles/serial.dir/src/impl/unix.cc.o' failed
+[0.430s] CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/serial.dir/all' failed
+[0.430s] Makefile:140: recipe for target 'all' failed
