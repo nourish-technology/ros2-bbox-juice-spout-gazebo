@@ -1,0 +1,15 @@
+[submodule "juice-machine"]
+	path = src/ros2-bbox-juice-machine
+	url = git@github.com:nourish-technology/ros2-bbox-juice-machine.git
+[submodule "scale"]
+	path = src/ros2-nourish-scale
+	url = git@github.com:nourish-technology/ros2-nourish-scale.git
+[submodule "dcb"]
+	path = src/ros2-nourish-dcb
+	url = git@github.com:nourish-technology/ros2-nourish-dcb.git
+[submodule "common-messages"]
+	path = src/ros2-nourish-common-messages
+	url = git@github.com:nourish-technology/ros2-nourish-common-messages.git
+[submodule "serial-ros2"]
+	path = src/serial-ros2
+	url = git@github.com:RoverRobotics-forks/serial-ros2.git
