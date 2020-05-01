@@ -1,2 +1,0 @@
-/usr/bin/ar qc libnourish_dcb.a  CMakeFiles/nourish_dcb.dir/src/coms.cpp.o
-/usr/bin/ranlib libnourish_dcb.a

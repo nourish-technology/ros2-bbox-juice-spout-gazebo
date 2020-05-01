@@ -1,4 +1,0 @@
-[0.078s] Invoking command in '/home/nikhil/nourish_ws/build/cv_bridge': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/cv_bridge -- -j12 -l12
-[0.371s] Invoked command in '/home/nikhil/nourish_ws/build/cv_bridge' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/cv_bridge -- -j12 -l12
-[0.445s] Invoking command in '/home/nikhil/nourish_ws/build/cv_bridge': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/cv_bridge --target install -- -j12 -l12
-[0.733s] Invoked command in '/home/nikhil/nourish_ws/build/cv_bridge' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/cv_bridge --target install -- -j12 -l12

@@ -1,7 +1,0 @@
-[2.625s] CMakeFiles/scale.dir/src/scale_node_main.cpp.o: In function `void __gnu_cxx::new_allocator<nourish::scale::ScaleNode>::construct<nourish::scale::ScaleNode>(nourish::scale::ScaleNode*)':
-[2.626s] scale_node_main.cpp:(.text._ZN9__gnu_cxx13new_allocatorIN7nourish5scale9ScaleNodeEE9constructIS3_JEEEvPT_DpOT0_[_ZN9__gnu_cxx13new_allocatorIN7nourish5scale9ScaleNodeEE9constructIS3_JEEEvPT_DpOT0_]+0x32): undefined reference to `nourish::scale::ScaleNode::ScaleNode()'
-[2.626s] collect2: error: ld returned 1 exit status
-[2.627s] make[2]: *** [scale] Error 1
-[2.627s] make[1]: *** [CMakeFiles/scale.dir/all] Error 2
-[2.627s] make[1]: *** Waiting for unfinished jobs....
-[2.934s] make: *** [all] Error 2

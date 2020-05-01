@@ -1,4 +1,0 @@
-[0.036s] Invoking command in '/home/nikhil/nourish_ws/build/dolly_gazebo': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/dolly_gazebo -- -j12 -l12
-[0.080s] Invoked command in '/home/nikhil/nourish_ws/build/dolly_gazebo' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/dolly_gazebo -- -j12 -l12
-[0.153s] Invoking command in '/home/nikhil/nourish_ws/build/dolly_gazebo': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/dolly_gazebo --target install -- -j12 -l12
-[0.242s] Invoked command in '/home/nikhil/nourish_ws/build/dolly_gazebo' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/dolly_gazebo --target install -- -j12 -l12

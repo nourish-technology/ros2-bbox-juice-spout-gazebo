@@ -1,8 +1,0 @@
-/home/nikhil/nourish_ws/build/dcb_gazebo/CMakeFiles/install/strip.dir
-/home/nikhil/nourish_ws/build/dcb_gazebo/CMakeFiles/install/local.dir
-/home/nikhil/nourish_ws/build/dcb_gazebo/CMakeFiles/test.dir
-/home/nikhil/nourish_ws/build/dcb_gazebo/CMakeFiles/list_install_components.dir
-/home/nikhil/nourish_ws/build/dcb_gazebo/CMakeFiles/uninstall.dir
-/home/nikhil/nourish_ws/build/dcb_gazebo/CMakeFiles/edit_cache.dir
-/home/nikhil/nourish_ws/build/dcb_gazebo/CMakeFiles/rebuild_cache.dir
-/home/nikhil/nourish_ws/build/dcb_gazebo/CMakeFiles/install.dir

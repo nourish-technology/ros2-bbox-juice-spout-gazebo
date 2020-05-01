@@ -1,6 +1,0 @@
-[0.083s] Invoking command in '/home/nikhil/nourish_ws/build/cv_bridge': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros-perception/vision_opencv/cv_bridge -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/cv_bridge
-[5.991s] Invoked command in '/home/nikhil/nourish_ws/build/cv_bridge' returned '0': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros-perception/vision_opencv/cv_bridge -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/cv_bridge
-[5.995s] Invoking command in '/home/nikhil/nourish_ws/build/cv_bridge': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/cv_bridge -- -j12 -l12
-[17.272s] Invoked command in '/home/nikhil/nourish_ws/build/cv_bridge' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/cv_bridge -- -j12 -l12
-[17.308s] Invoking command in '/home/nikhil/nourish_ws/build/cv_bridge': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/cv_bridge --target install -- -j12 -l12
-[17.513s] Invoked command in '/home/nikhil/nourish_ws/build/cv_bridge' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/cv_bridge --target install -- -j12 -l12

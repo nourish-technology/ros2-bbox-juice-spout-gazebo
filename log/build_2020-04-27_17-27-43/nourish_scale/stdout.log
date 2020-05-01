@@ -1,8 +1,0 @@
-[0.070s] [35m[1mScanning dependencies of target scale[0m
-[0.082s] [ 16%] Built target gtest_main
-[0.082s] [ 33%] Built target gtest
-[0.109s] [ 41%] [32mBuilding CXX object CMakeFiles/scale.dir/src/scale_node_main.cpp.o[0m
-[0.126s] [ 75%] Built target nourish_scale_my_test
-[0.972s] CMakeFiles/scale.dir/build.make:62: recipe for target 'CMakeFiles/scale.dir/src/scale_node_main.cpp.o' failed
-[0.973s] CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/scale.dir/all' failed
-[0.973s] Makefile:140: recipe for target 'all' failed

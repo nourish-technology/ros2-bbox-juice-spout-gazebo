@@ -1,7 +1,0 @@
-{
-  "package_name": "nourish_scale_msgs",
-  "non_idl_tuples": [
-    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_scale_msgs:msg/Response.msg",
-    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/nourish_scale_msgs:srv/Tare.srv"
-  ]
-}

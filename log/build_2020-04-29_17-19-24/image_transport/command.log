@@ -1,4 +1,0 @@
-[0.078s] Invoking command in '/home/nikhil/nourish_ws/build/image_transport': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/image_transport -- -j12 -l12
-[0.417s] Invoked command in '/home/nikhil/nourish_ws/build/image_transport' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/image_transport -- -j12 -l12
-[0.628s] Invoking command in '/home/nikhil/nourish_ws/build/image_transport': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/image_transport --target install -- -j12 -l12
-[1.105s] Invoked command in '/home/nikhil/nourish_ws/build/image_transport' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/image_transport --target install -- -j12 -l12

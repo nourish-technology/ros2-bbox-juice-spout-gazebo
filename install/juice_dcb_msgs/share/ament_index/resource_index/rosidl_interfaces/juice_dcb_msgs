@@ -1,6 +1,0 @@
-msg/CommandResult.idl
-msg/CommandResult.msg
-srv/SetPouring.idl
-srv/SetPouring.srv
-srv/SetPouring_Request.msg
-srv/SetPouring_Response.msg

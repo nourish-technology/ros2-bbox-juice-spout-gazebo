@@ -1,9 +1,0 @@
-float32 grams
----
-
-uint8 RESULT_UNKNOWN = 0
-uint8 RESULT_SUCCESS = 1
-uint8 RESULT_ERROR_INVALID_VALUE = 2
-uint8 RESULT_ERROR_BUSY = 3
-
-uint8 result

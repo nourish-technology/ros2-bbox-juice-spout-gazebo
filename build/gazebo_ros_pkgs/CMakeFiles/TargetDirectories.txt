@@ -1,8 +1,0 @@
-/home/nikhil/nourish_ws/build/gazebo_ros_pkgs/CMakeFiles/install/strip.dir
-/home/nikhil/nourish_ws/build/gazebo_ros_pkgs/CMakeFiles/install/local.dir
-/home/nikhil/nourish_ws/build/gazebo_ros_pkgs/CMakeFiles/test.dir
-/home/nikhil/nourish_ws/build/gazebo_ros_pkgs/CMakeFiles/list_install_components.dir
-/home/nikhil/nourish_ws/build/gazebo_ros_pkgs/CMakeFiles/uninstall.dir
-/home/nikhil/nourish_ws/build/gazebo_ros_pkgs/CMakeFiles/edit_cache.dir
-/home/nikhil/nourish_ws/build/gazebo_ros_pkgs/CMakeFiles/rebuild_cache.dir
-/home/nikhil/nourish_ws/build/gazebo_ros_pkgs/CMakeFiles/install.dir

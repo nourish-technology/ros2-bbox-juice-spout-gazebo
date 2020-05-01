@@ -1,7 +1,0 @@
-uint8 STATUS_ERROR_UNKNOWN = 0
-uint8 STATUS_SUCCESS = 1
-uint8 STATUS_ERROR_BUSY = 2
-uint8 STATUS_ERROR_NOT_CONNECTED = 3
-
-uint8 status
-string debug_msg

@@ -1,7 +1,0 @@
-{
-  "package_name": "juice_dcb_msgs",
-  "non_idl_tuples": [
-    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/juice_dcb_msgs:msg/CommandResult.msg",
-    "/home/nikhil/nourish_ws/src/ros2-nourish-common-messages/juice_dcb_msgs:srv/SetPouring.srv"
-  ]
-}

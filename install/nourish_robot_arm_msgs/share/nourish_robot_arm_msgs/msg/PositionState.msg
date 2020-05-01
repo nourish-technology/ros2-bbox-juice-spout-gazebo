@@ -1,3 +1,0 @@
-Joint joint
-
-Pose pose

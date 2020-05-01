@@ -1,6 +1,0 @@
-[0.077s] Invoking command in '/home/nikhil/nourish_ws/build/camera_calibration_parsers': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros-perception/image_common/camera_calibration_parsers -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/camera_calibration_parsers
-[2.837s] Invoked command in '/home/nikhil/nourish_ws/build/camera_calibration_parsers' returned '0': /usr/bin/cmake /home/nikhil/nourish_ws/src/ros-perception/image_common/camera_calibration_parsers -DCMAKE_INSTALL_PREFIX=/home/nikhil/nourish_ws/install/camera_calibration_parsers
-[2.839s] Invoking command in '/home/nikhil/nourish_ws/build/camera_calibration_parsers': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/camera_calibration_parsers -- -j12 -l12
-[9.945s] Invoked command in '/home/nikhil/nourish_ws/build/camera_calibration_parsers' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/camera_calibration_parsers -- -j12 -l12
-[10.001s] Invoking command in '/home/nikhil/nourish_ws/build/camera_calibration_parsers': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/camera_calibration_parsers --target install -- -j12 -l12
-[10.201s] Invoked command in '/home/nikhil/nourish_ws/build/camera_calibration_parsers' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/camera_calibration_parsers --target install -- -j12 -l12

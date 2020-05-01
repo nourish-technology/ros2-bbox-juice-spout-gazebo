@@ -1,4 +1,0 @@
-[0.083s] Invoking command in '/home/nikhil/nourish_ws/build/camera_calibration_parsers': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/camera_calibration_parsers -- -j12 -l12
-[0.408s] Invoked command in '/home/nikhil/nourish_ws/build/camera_calibration_parsers' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/camera_calibration_parsers -- -j12 -l12
-[0.511s] Invoking command in '/home/nikhil/nourish_ws/build/camera_calibration_parsers': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/camera_calibration_parsers --target install -- -j12 -l12
-[0.779s] Invoked command in '/home/nikhil/nourish_ws/build/camera_calibration_parsers' returned '0': /usr/bin/cmake --build /home/nikhil/nourish_ws/build/camera_calibration_parsers --target install -- -j12 -l12
