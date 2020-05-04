@@ -28,7 +28,7 @@
             <name>Dolly/fur</name>
           </script>
         </material>
-	<plugin name='color' filename='/home/nikhil/ws/src/ros2-gazebo-demo/install/dolly_plugin/lib/libori_color.so'></plugin>
+	<plugin name='color' filename='/home/nikhil/ros2-bbox-juice-spout-gazebo/install/dcb_plugin/lib/libjuice_spout_color.so'></plugin>
       </visual>
       <visual name="box">
         <pose>0 0 0.08 0 0 0.24</pose>
@@ -327,8 +327,9 @@
         </ode>
       </physics>
     </joint>
-
-    <plugin name='diff_drive' filename='/home/nikhil/ws/src/ros2-gazebo-demo/install/dolly_plugin/lib/libori_diff_drive.so'>
+  </model>
+</sdf>
+    <!-- <plugin name='diff_drive' filename='/home/nikhil/ws/src/ros2-gazebo-demo/install/dolly_plugin/lib/libori_diff_drive.so'>
 
       <ros>
         <namespace>/dolly</namespace>
@@ -353,7 +354,6 @@
       <odometry_frame>odom_demo</odometry_frame>
       <robot_base_frame>chassis</robot_base_frame>
 
-    </plugin>
+    </plugin> -->
   
-  </model>
-</sdf>
+

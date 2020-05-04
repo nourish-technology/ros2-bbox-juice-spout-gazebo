@@ -71,20 +71,20 @@ link_directories(${gazebo_dev_LIBRARY_DIRS})
 #)
 #ament_export_libraries(ori_diff_drive)
 #
-## ori_color
-#add_library(ori_color SHARED
-#  src/ori_color.cpp
-#)
-#ament_target_dependencies(ori_color
-#  "gazebo_dev"
-#  "gazebo_ros"
-#  "geometry_msgs"
-#  "nav_msgs"
-#  "rclcpp"
-#  "tf2"
-#  "tf2_geometry_msgs"
-#  "tf2_ros"
-#)
+# juice_spout_color
+add_library(juice_spout_color SHARED
+  src/juice_spout_color.cpp
+)
+ament_target_dependencies(juice_spout_color
+  "gazebo_dev"
+  "gazebo_ros"
+  "geometry_msgs"
+  "nav_msgs"
+  "rclcpp"
+  "tf2"
+  "tf2_geometry_msgs"
+  "tf2_ros"
+)
 #ament_export_libraries(ori_diff_drive)
 #
 ## ori_attach
@@ -124,7 +124,7 @@ install(DIRECTORY include/
 
 install(TARGETS
 	#    ori_diff_drive
-	#    ori_color
+	juice_spout_color
 	#    ori_attach
   ARCHIVE DESTINATION lib
   LIBRARY DESTINATION lib
